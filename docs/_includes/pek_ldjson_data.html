@@ -1,0 +1,36 @@
+<!-- LD JSON -->
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.zachmccabe.com/beijing{{ page.url }}"
+  },
+  "headline": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image }}"
+  },
+  "datePublished": "{{ page.pub-date }}",
+  {% if page.mod-date %}"dateModified": "{{ page.mod-date }}",{% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "Zach McCabe",
+    "url": "https://www.zachmccabe.com",
+    "sameAs": [
+      "https://amazon.com/author/zachmccabe",
+      "https://github.com/nowzach",
+      "https://medium.com/@nowzach"
+    ]
+  },
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "@id": "https://www.zachmccabe.com/beijing/index.html",
+    "name": "The Photographers Field Guide to Beijing"
+  }
+}
+</script>
+
