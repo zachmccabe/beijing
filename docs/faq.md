@@ -20,6 +20,7 @@ cta: Read this far and still have an unanswered question? <a href="mailto:hello@
 * [What's so great about Beijing?](https://www.zachmccabe.com/beijing/faq.html#whats-so-great-about-beijing)
 * [Who sponsored this project, then?](https://www.zachmccabe.com/beijing/faq.html#who-sponsored-this-project-then)
 * [Why do I need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-i-need-this-book)
+* [When will the book be updated?](https://www.zachmccabe.com/beijing/faq.html#when-will-the-book-be-updated)
 * [Which other cities are you going to write about?](https://www.zachmccabe.com/beijing/faq.html#which-other-cities-are-you-going-to-write-about)
 * [Why did you write this book?](https://www.zachmccabe.com/beijing/faq.html#why-did-you-write-this-book)
 
@@ -79,6 +80,11 @@ The Field Guide gives you 3 things:
 3. A brief, and carefully curated, location list to help you hit the ground running.
 
 The Field Guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
+
+
+## When will the book be updated?
+
+Big changes are coming to The Field Guide in Q4 2019. You can learn more [here.](https://www.zachmccabe.com/beijing/#book-updates)
 
 
 ### Which other cities are you going to write about?
