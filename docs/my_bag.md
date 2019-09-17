@@ -17,7 +17,7 @@ You know what I love about travel? I love meeting people, getting lost in new pl
 Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [cameras,](https://www.zachmccabe.com/beijing/my_bag.html#cameras) [lenses](https://www.zachmccabe.com/beijing/my_bag.html#lenses) and a [shot list.](https://www.zachmccabe.com/beijing/my_bag.html#shot-list)
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-hotpot-1k.jpg" alt="Entranceway to a courtyard home, called a siheyuan." />
+  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-bike-repair-1k.jpg" alt="Environmental portrait of a man repairing bicycles." />
   <figcaption>
     <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
