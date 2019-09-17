@@ -17,7 +17,7 @@ Because there is a maze of red tape and corporate CYA surrounding geolocation te
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-zoom-1k.jpg" alt="That blue hour rush on Wangfujing." />
+  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-baitasi-1k.jpg" alt="That blue hour rush on Wangfujing." />
   <figcaption>
     <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
