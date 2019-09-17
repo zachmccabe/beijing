@@ -26,9 +26,14 @@ p strong, li strong {
 font-weight: normal; */
 }
 
-figure .vizdot {
+/*
+figure {
 background-color: #fff2e8;
 color: #a95414;
 margin: 5em auto;
+}
+*/
+
+.vizdot {
 padding: 5em 0;
 }
