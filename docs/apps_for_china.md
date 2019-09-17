@@ -19,7 +19,7 @@ Apps like [The Photographer’s Ephemeris](http://photoephemeris.com/) and [Phot
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-gulou-1k.jpg" alt="Cyclists near Gulou." />
+  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-nlgx-1k.jpg" alt="Looking into a siheyuan on Nanluoguxiang, renovated and repurposed as a restaurant." />
     <figcaption>
       <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
     </figcaption>
