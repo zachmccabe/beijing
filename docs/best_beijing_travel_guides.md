@@ -20,7 +20,7 @@ Because I like to travel light, I have the Kindle-version of both books:
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-alleyway-1k.jpg" alt="Alleyway." />
+  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-downpour-1k.jpg" alt="Alleyway." />
   <figcaption>
     <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
