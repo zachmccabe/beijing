@@ -26,7 +26,7 @@ Whatever you pick, make sure you learn with your ears. Get something that focuse
 
 
 <figure>
-<img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-cooking2-1k.jpg" alt="Cooking over a coal stove." />
+<img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-hotpot-1k.jpg" alt="Cooking over a coal stove." />
   <figcaption>
     <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
