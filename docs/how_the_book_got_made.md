@@ -33,7 +33,7 @@ It would take extra work, I knew. This was my first book. From research, to draf
 
 When I started the book, I asked myself a question: _Does my reader even need to see the author's photos? After all, she's headed to Beijing to make her own._
 
-This could be tested easily… In the first draft that went out to my beta readers the _only_ photo included in the Field Guide was on the cover. Reader response was unanimous. "Where the hell are the photos, man?"
+This could be tested easily… In the first draft that went out to my beta readers the _only_ photo included in the Field Guide was on the cover. Reader response was unanimous: _"Where the hell are the photos, man?"_
 
 The catch is that Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup> Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. The platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
 
@@ -57,13 +57,11 @@ We're used to the experience delivered by modern web browsers. Compared to looki
 
 Research told me many photographers are very choosy about their displays – my images would need to meet the demands of top-shelf phones and tablets.<sup><a id="ref2" href="#note2" alt="footnote">2</a></sup>
 
-Still, device storage space is truly at a premium during international trips.
+But device storage space is truly at a premium during international trips.
 
-An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, images. 
+An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
 
-It is easy to imagine a Reader backing up key images to her iPad. She might likely do a bit of editing with an app like Lightroom, too. This task demands lots of storage.
-
-So I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on a readers' devices and that irritable warning from Kindle to customers: _"Due to its large file size, this book may take longer to download."_
+So I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: _"Due to its large file size, this book may take longer to download."_ I assume I'm not the only one who tries to download just-one-more before it's time to get on the plane? I also [assume](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) that some of my Readers are in scenarios where network connectivity isn't great.
 
 According to the Amazon product page, the Field Guide weighs 7978 KB. This is roughly the same file size as a hefty novel or nonfiction book – like Michael Meyer's great book, [Last Days of Old Beijing.](https://www.amazon.com/Last-Days-Old-Beijing-Backstreets-ebook/dp/B003WUYE3E/)
 
@@ -95,7 +93,7 @@ Maps were illustrated using [Maperative](http://maperitive.net/) on top of open-
 Other illustrations were just coded by hand in [BBEdit](https://www.barebones.com/products/bbedit/).
 
 
-#### SVG GIF JPG Hell
+#### SVG GIF JPG wtf
 
 Creating these visuals was the most challenging part of getting the Field Guide published.
 
@@ -149,9 +147,9 @@ Then, find a good editor. If you're including maps, illustrations and photos, pu
 
 I was told to spend half my time making the product and half my time marketing it. I should've listened.
 
-From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights. It also reminds me of that saying about Mount Fuji: _Everybody's got a climb it once but only an idiot climbs it twice._
+From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights.
 
-> I'm pulling together a team for the next book. If you're interested, <a href="mailto:hello@zachmccabe.com">let me know.</a>
+I'm pulling together a team for the next book. If you're interested, <a href="mailto:hello@zachmccabe.com">let me know.</a>
 
 
 ### Notes
