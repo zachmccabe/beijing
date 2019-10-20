@@ -27,7 +27,7 @@ Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [c
 ### Pack for the jet-lagged soul making the pictures
 
 #### Bag
-Travel light. It is worth giving up some creature comforts in exchange for speed and flexibility. I like to travel with a just a carry on, a daypack, when I can. Yeah, this means washing my clothes in the hotel sink but experience has taught me that is always worth it to pack light. It's less stressful, too.
+Travel light. It is worth giving up some creature comforts in exchange for speed and flexibility. I like to travel with a just a carry on – a daypack – when I can. Yeah, this means washing my clothes in the hotel sink but experience has taught me that is always worth it to pack light. It's less stressful, too.
 
 <figure>
   <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-usb-1k.jpg" alt="Whenever possible, I keep it simple and charge my stuff via USB." />
@@ -96,7 +96,11 @@ Small, simple tools are enough to deal with many scenarios – like closeups and
 
 #### Lungi
 
-You might know this big, square piece of cotton as a sarong. Mine was given to me by a buddy after a trip to Bangladesh, where it is called a “lungi.” Call it whatever name you want: there is a reason why these things are everywhere in Southeast Asia. A lungi is like a colorful, comfy Swiss Army Knife. You can use it for anything. (I’d guess the only reason Douglas Adams wrote that a towel is the most useful travel accessory in the galaxy is because the poor guy didn’t have a lungi.)
+A lungi is like a colorful, comfy Swiss Army Knife. You can use it for anything.
+
+You might know this big, square piece of cotton as a sarong. Mine was given to me by a buddy after a trip to Bangladesh, where it is called a “lungi.” Call it whatever name you want: there is a reason why these things are everywhere in Southeast Asia.
+
+(I’d guess the only reason Douglas Adams wrote that a towel is the most useful travel accessory in the galaxy is because the poor guy didn’t have a lungi.)
 
 #### Reservations
 
@@ -108,7 +112,7 @@ Silica gel packets help dry out soggy gear. Rice is a good substitute, and is ea
 
 #### Shot list
 
-<span id="shot-list">Shot list</span>. The point here is to zero-in on your most important subjects and compositions. Doing the research and writing down the critical shots I'll need to bring home helps me think through the process. This list becomes the road map for the trip. Once I've got this sorted out I'll know:
+<span id="shot-list">Shot list</span>. The point here is to zero-in on your most important subjects and compositions. Doing my research and writing down the critical shots I'll need to bring home helps me think through the process. This list becomes the road map for the trip. Once I've got this sorted out I'll know:
 
 * What to pack.
 * Which locations will require more scouting.
@@ -132,7 +136,9 @@ Smecta is an over-the-counter medicine used to treat diarrhea. It's easy to find
 
 #### Snacks
 
-Sooner or later, I get delayed or lost and end up tired and hungry. Coffee can only do so much. I bring salty, sugary energy-dense stuff that won’t melt in my bag. If you’re in Beijing, you can just buy some Xinjiang-style <mark>nut cake <span lang="zh">切糕</span></mark> from a street vendor. So yummy!
+Sooner or later, I get delayed or lost and end up tired and hungry. Coffee can only do so much. I pack  energy-dense stuff that won’t melt in my bag.
+
+One of my local favorites is Uyghur-style <mark>cut cake <span lang="zh">切糕</span></mark>. (Imagine a kind of chewy granola bar made of nuts, raisins and dried apricots.) So yummy!
 
 
 #### Tripod?
@@ -142,4 +148,4 @@ Traveling with a tripod is a hassle. Even if you need to lock things down, consi
 
 #### Weather
 
-Weather in this town might be curse for tourists, but it's great for photographers. I bring a battle-tested **UV Buff** to help deal with sunburn, bugs and winter wind.
+Weather in this town might be curse for tourists but it's great for photographers. I bring a battle-tested **UV Buff** to help deal with sunburn, bugs and winter wind.
