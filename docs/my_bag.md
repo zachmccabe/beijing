@@ -12,7 +12,7 @@ cta: Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCab
 
 ### Pack light for flexibility
 
-You know what I love about travel? I love meeting people, getting lost in new places and – most of all – the mind-bending smells. So that I can soak it all in, I keep my gear real simple. Here’s what is in my camera bag.
+You know what I love about travel? I love meeting people, getting lost in new places and – most of all – the delicious, mind-bending scents. So that I can soak it all in, I keep my gear real simple. Here’s what is in my camera bag.
 
 Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [cameras,](https://www.zachmccabe.com/beijing/my_bag.html#cameras) [lenses](https://www.zachmccabe.com/beijing/my_bag.html#lenses) and a [shot list.](https://www.zachmccabe.com/beijing/my_bag.html#shot-list)
 
@@ -29,26 +29,19 @@ Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [c
 #### Bag
 Travel light. It is worth giving up some creature comforts in exchange for speed and flexibility. I like to travel with a just a carry on – a daypack – when I can. Yeah, this means washing my clothes in the hotel sink but experience has taught me that is always worth it to pack light. It's less stressful, too.
 
+<!--
 <figure>
   <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-usb-1k.jpg" alt="Whenever possible, I keep it simple and charge my stuff via USB." />
   <figcaption>
     <p>Keep it simple. Everything but the cameras gets charged via micro USB.</p>
   </figcaption>
 </figure>
-
+-->
 
 #### Batteries
 
 <span id="batteries">Batteries</span> are not where you want to get cheap. Bring extra.
 
-<!--
-<figure>
-  <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-eos-m-1k.jpg" alt="My cameras." />
-  <figcaption>
-    <p>Why bring 2 camera bodies? Like I mention in the book, you've gotta have a backup.</p>
-  </figcaption>
-</figure>
--->
 
 #### Cameras
 
@@ -60,7 +53,7 @@ Cleaning supplies for my lenses and my camera sensors.
 
 #### Coffee
 
-Any leftover space in my bag is stuffed with sachets of Starbucks VIA instant coffee or its equivalent. You know why.
+Any leftover space in my bag is stuffed with sachets of Starbucks VIA instant coffee or its equivalent.
 
 #### Comfortable feet
 
@@ -120,14 +113,14 @@ Silica gel packets help dry out soggy gear. Rice is a good substitute, and is ea
 
 Because having a list frees up time and mental bandwidth, I can make better use of spontaneous moments that pop up, too. Try it.
 
-
+<!--
 <figure>
   <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-smecta-1k.jpg" alt="Smecta and other essentials" />
   <figcaption>
     <p>Smecta and other essentials.</p>
   </figcaption>
 </figure>
-
+-->
 
 #### Smecta, etc
 
@@ -138,7 +131,6 @@ Smecta is an over-the-counter medicine used to treat diarrhea. It's easy to find
 
 Sooner or later, I get delayed or lost and end up tired and hungry. Coffee can only do so much. I pack  energy-dense stuff that won’t melt in my bag.
 
-One of my local favorites is Uyghur-style <mark>cut cake <span lang="zh">切糕</span></mark>. (Imagine a kind of chewy granola bar made of nuts, raisins and dried apricots.) So yummy!
 
 
 #### Tripod?
