@@ -16,10 +16,11 @@ You know what I love about travel? I love meeting people, getting lost in new pl
 
 Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [cameras,](https://www.zachmccabe.com/beijing/my_bag.html#cameras) [lenses](https://www.zachmccabe.com/beijing/my_bag.html#lenses) and a [shot list.](https://www.zachmccabe.com/beijing/my_bag.html#shot-list)
 
+
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-bike-repair-1k.jpg" alt="Environmental portrait of a man repairing bicycles." />
+  <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-reflector-1k.jpg" alt="12-inch reflector" />
   <figcaption>
-    <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
+    <p>A 12-inch reflector packs down flat, and is the diameter of a Chinese tea cup. It doesn't need batteries and weighs next to nothing. • Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
 </figure>
 
@@ -67,14 +68,14 @@ Gaffer tape fixes everything but a broken heart.
 
 Hydrate. I bring an insulated water bottle because you can count on every airport, bus and train station in China having a boiled water dispenser. Also great for coffee, tea or soup on those long winter train rides.
 
-
+<!--
 <figure>
   <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-reflector-1k.jpg" alt="A 12-inch reflector seems comically small, but it's super easy to pack." />
   <figcaption>
     <p>A 12-inch reflector packs down flat, and is the diameter of a Chinese tea cup. It doesn't need batteries and weighs next to nothing.</p>
   </figcaption>
 </figure>
-
+-->
 
 #### Lighting tools
 
