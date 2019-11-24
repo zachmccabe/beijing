@@ -18,7 +18,7 @@ Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [c
 
 
 <figure>
-  <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-reflector-1k.jpg" alt="12-inch reflector" />
+  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-reflector-1k.jpg" alt="12-inch reflector" />
   <figcaption>
     <p>A 12-inch reflector packs down flat, and is the diameter of a Chinese tea cup. It doesn't need batteries and weighs next to nothing. • Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
   </figcaption>
