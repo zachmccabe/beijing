@@ -47,7 +47,11 @@ But print guidebooks are way too heavy to bring with you on the road! Make your 
 * [The Beijinger](http://www.thebeijinger.com/)
 * [TimeOut Beijing](http://www.timeoutbeijing.com/)
 
-If you want to make better travel images, you’ll need to get up close and personal. **TripAdvisor** is great, really it is. But use these local, English-language websites to: Take a [cooking class](http://www.timeoutbeijing.com/feature/35424/The-complete-guide-to-cooking-in-Beijing.html). Get a better look at [contemporary architecture](http://www.thatsmags.com/beijing/post?tag=on+the+block). Learn how to [rent a bike](http://www.timeoutbeijing.com/features/Visiting_Beijing-Essential_Beijing/37381/How-to-rent-a-public-bike-in-Beijing.html).
+If you want to make better travel images, you’ll need to get up close and personal. TripAdvisor and Google reviews are great, but try these **local, English-language websites** and you'll get more:
+
++ Take a [cooking class](http://www.timeoutbeijing.com/feature/35424/The-complete-guide-to-cooking-in-Beijing.html).
++ Get a better look at [contemporary architecture](http://www.thatsmags.com/beijing/post?tag=on+the+block).
++ Learn how to [rent a bike](http://www.timeoutbeijing.com/features/Visiting_Beijing-Essential_Beijing/37381/How-to-rent-a-public-bike-in-Beijing.html).
 
 ### Use Streetview and take a walk
 
