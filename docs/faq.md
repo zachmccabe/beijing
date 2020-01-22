@@ -3,11 +3,11 @@
 layout: pek
 title: Frequently asked questions
 pub-date: 2018-04-18
-mod-date: 2018-08-21
+mod-date: 2020-01-21
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
 lede: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
-cta: Read this far and still have an unanswered question? <a href="mailto:hello@zachmccabe.com">Email me</a> and I'll help ya out!
+cta: Read this far and still have an unanswered question? <a href="mailto:hello@zachmccabe.com">Email me</a> and I'll help ya out.
 
 ---
 
@@ -20,15 +20,13 @@ cta: Read this far and still have an unanswered question? <a href="mailto:hello@
 * [What's so great about Beijing?](https://www.zachmccabe.com/beijing/faq.html#whats-so-great-about-beijing)
 * [Who sponsored this project, then?](https://www.zachmccabe.com/beijing/faq.html#who-sponsored-this-project-then)
 * [Why do I need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-i-need-this-book)
-* [When will the book be updated?](https://www.zachmccabe.com/beijing/faq.html#when-will-the-book-be-updated)
-* [Which other cities are you going to write about?](https://www.zachmccabe.com/beijing/faq.html#which-other-cities-are-you-going-to-write-about)
+* [Troubleshooting Chinese text on old Kindle e-ink hardware](https://www.zachmccabe.com/beijing/faq.html#troubleshooting-chinese-text-on-old-kindle-e-ink-hardware)
 * [Why did you write this book?](https://www.zachmccabe.com/beijing/faq.html#why-did-you-write-this-book)
 
 
 ### Who is this book for?
 
 Photographers who are new to China, or at least new to the Beijing area, will get the most out of The Field Guide. Nearly everyone arrives in Beijing with the same questions. The Field Guide gives you quick answers to those questions, and tackles a few issues you probably haven't anticipated yet.
-
 
 
 ### How do I read the Field Guide?
@@ -82,16 +80,6 @@ The Field Guide gives you 3 things:
 The Field Guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
 
 
-### When will the book be updated?
-
-Big changes are coming to The Field Guide in Q4 2019. You can learn more [here.](https://www.zachmccabe.com/beijing/#book-updates)
-
-
-### Which other cities are you going to write about?
-
-We'll see. [Email me](mailto:hello@zachmccabe.com) and tell me which location you want covered!
-
-
 ### Why did you write this book?
 
 Beijing is my second home. I am excited to share it with you.
@@ -99,3 +87,15 @@ Beijing is my second home. I am excited to share it with you.
 I wrote this book so you can spend _more_ of your time focusing on photography, and less time worrying about logistics.
 
 After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it.
+
+
+### Troubleshooting Chinese text on old Kindle e-ink hardware
+
+iPhones, Android phones and Kindle hardware all typically display Chinese language text just fine. Some early Kindle e-ink devices may require you to fiddle with your font settings to display Chinese characters, though.
+
+(Apparently, only some of Kindle’s fonts will display Chinese properly on older devices.)
+
+If you see little tofu blocks instead of Chinese characters, you’ll need to change your e-reader’s font settings:
+
+ 1. Hit the little **Aa icon** at the top of your screen to toggle the font settings options. This preference pane will let you choose a different font.
+ 2. Tap through your font options until the weird, little tofu boxes disappear and you can see Chinese characters alongside the English language text.
