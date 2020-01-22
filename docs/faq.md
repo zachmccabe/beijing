@@ -82,7 +82,7 @@ The Field Guide gives you 3 things:
 The Field Guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
 
 
-## When will the book be updated?
+### When will the book be updated?
 
 Big changes are coming to The Field Guide in Q4 2019. You can learn more [here.](https://www.zachmccabe.com/beijing/#book-updates)
 
