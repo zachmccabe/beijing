@@ -1,13 +1,11 @@
 ---
 
-layout: pek
+layout: hongbao
 title: Frequently asked questions
 pub-date: 2018-04-18
 mod-date: 2020-01-23
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
-lede: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
-cta: Read this far and still have an unanswered question? <a href="mailto:hello@zachmccabe.com">Email me</a> and I'll help ya out.
 
 ---
 
