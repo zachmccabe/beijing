@@ -4,7 +4,7 @@ html, body {
 
 body {
 background-color:#fff2e8;
-color: #333;
+color: #545454;
 font: normal normal 1.3em/1.5 sans-serif;
 }
 
@@ -61,20 +61,20 @@ article, main, section {
   max-width: 20em;
 }
 
-.kaoCTA {
-  background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
-  margin-top: 5em;
-  padding: 1em 0.5em;
-  text-align: center;
+.shuCTA {
+background-image: linear-gradient(to bottom right, rgb(255, 242, 232), rgba(255, 92, 92, 0.3));  /* that's #ff5c5c btw */
+margin: 5em auto 5em;
+padding: 1em 0.5em;
+text-align: center;
 }
 
-.kaoNAV {
-background-image: linear-gradient(to bottom right, rgb(254, 252, 251), rgba(255, 195, 0, 0.3));  /* that's #FFC300 btw */
+.shuNAV {
+background-image: linear-gradient(to bottom right, rgb(255, 242, 232), rgba(255, 92, 92, 0.3));  /* that's #ff5c5c btw */
 margin: 5em auto 5em;
 padding: 1em 0.5em;
 }
 
-.kaoNAV ul {
+.shuNAV ul {
 list-style-type: none;
 marign: 0;
 padding: 0;
