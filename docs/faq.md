@@ -6,6 +6,7 @@ pub-date: 2018-04-18
 mod-date: 2020-01-23
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
+cta: Did you know the field guide is now free? Have a <a href="https://www.zachmccabe.com/beijing/">read.</a>
 
 ---
 
@@ -21,6 +22,7 @@ description: Have a question about the Photographers Field Guide to Beijing? Let
 * [Why do you need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-you-need-this-book)
 * [Troubleshooting Chinese text on old Kindle e-ink hardware](https://www.zachmccabe.com/beijing/faq.html#troubleshooting-chinese-text-on-old-kindle-e-ink-hardware)
 * [Why write a field guide](https://www.zachmccabe.com/beijing/faq.html#why-write-a-field-guide)
+* [Do you have a different question?](https://www.zachmccabe.com/beijing/faq.html#do-you-have-a-different-question)
 
 
 ## What’s the latest version of the field guide?
@@ -99,3 +101,8 @@ If you see little tofu blocks instead of Chinese characters, you’ll need to ch
 ## Why write a field guide?
 
 After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it. Books are self-contained and offline. That might be handy when you’re inside the great firewall.
+
+
+## Do you have a different question?
+
+Read all this way and still looking for answers – we can’t have that. Please email me and let’s figure it out together: <hello@zachmccabe.com>
