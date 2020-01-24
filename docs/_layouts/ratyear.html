@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+{% include pek_ldjson_data.html %}
+
+    <link rel="stylesheet" href="https://www.zachmccabe.com/beijing/assets/css/ratyear-style.css">
+    <link rel="canonical" href="https://www.zachmccabe.com/beijing{{ page.url }}" />
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="https://www.zachmccabe.com/beijing/sitemap.xml" />
+    
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+<body>
+<header>
+<a href="https://www.zachmccabe.com/about.html">About</a> • <a href="https://www.zachmccabe.com/contact.html">Contact</a>
+<h1>{{ page.title }}</h1>
+<main>
+<div class="xwrap">
+<div class="xnest20">
+{{ content }}
+</div>
+</div>
+</main>
+<footer>
+<p><a href="mailto:hello@zachmccabe.com?Subject=Hi%20via%20{{ page.title }}">hello@zachmccabe.com</a></p>
+<p>&copy; 2017 – 2020 Zach McCabe</p>
+</footer>
+</body>
+</html>
