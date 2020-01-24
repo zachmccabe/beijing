@@ -1,3 +1,5 @@
+<style>
+
 html, body {
   margin: 0 auto;
 }
@@ -190,3 +192,5 @@ ol + h2, h3, h4 {
 ul + h2, h3, h4 {
   margin-top: 5em;
 }
+
+</style>
