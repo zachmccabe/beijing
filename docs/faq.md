@@ -6,7 +6,7 @@ pub-date: 2018-04-18
 mod-date: 2020-01-23
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
-cta: Did you know the field guide is now free? Have a <a href="https://www.zachmccabe.com/beijing/">read.</a>
+cta: Still curious? Have a <a href="https://www.zachmccabe.com/beijing/">read.</a>
 
 ---
 
@@ -29,9 +29,8 @@ cta: Did you know the field guide is now free? Have a <a href="https://www.zachm
 
 The field guide is on v2.0.0.
 
-<!--
-BTW, you can check to see if you have the latest version by looking at the copyright page in the book, and comparing that  with the [latest release]() on Github.
--->
+(BTW, you can check to see if you have the latest version by comparing the version number listed on the book’s copyright page with the [latest release](https://github.com/zachmccabe/beijing/releases/latest) on Github.)
+
 
 ## Who is this book for?
 
