@@ -3,7 +3,7 @@
 layout: pek
 title: Frequently asked questions
 pub-date: 2018-04-18
-mod-date: 2020-01-21
+mod-date: 2020-01-23
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
 lede: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
@@ -12,36 +12,44 @@ cta: Read this far and still have an unanswered question? <a href="mailto:hello@
 ---
 
 
-
+* [What is the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#what-is-the-latest-version-of-the-field-guide)
 * [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
-* [How do I read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-i-read-the-field-guide)
+* [How do you read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-read-the-field-guide)
+* [Can you still read it on Kindle?](https://www.zachmccabe.com/beijing/faq.html#can-you-still-read-it-on-kindle)
 * [Who won't like this book?](https://www.zachmccabe.com/beijing/faq.html#who-wont-like-this-book)
-* [Wait, do I need to be a pro to use this book?](https://www.zachmccabe.com/beijing/faq.html#wait-do-i-need-to-be-a-pro-to-use-this-book)
+* [Wait, do you need to be a pro to use this book?](https://www.zachmccabe.com/beijing/faq.html#wait-do-you-need-to-be-a-pro-to-use-this-book)
 * [What's so great about Beijing?](https://www.zachmccabe.com/beijing/faq.html#whats-so-great-about-beijing)
 * [Who sponsored this project, then?](https://www.zachmccabe.com/beijing/faq.html#who-sponsored-this-project-then)
-* [Why do I need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-i-need-this-book)
+* [Why do you need this book?](https://www.zachmccabe.com/beijing/faq.html#why-do-you-need-this-book)
 * [Troubleshooting Chinese text on old Kindle e-ink hardware](https://www.zachmccabe.com/beijing/faq.html#troubleshooting-chinese-text-on-old-kindle-e-ink-hardware)
-* [Why did you write this book?](https://www.zachmccabe.com/beijing/faq.html#why-did-you-write-this-book)
+* [Why write a field guide](https://www.zachmccabe.com/beijing/faq.html#why-write-a-field-guide)
 
+
+## What’s the latest version of the field guide?
+
+The field guide is on v2.0.0.
+
+<!--
+BTW, you can check to see if you have the latest version by looking at the copyright page in the book, and comparing that  with the [latest release]() on Github.
+-->
 
 ## Who is this book for?
 
 Photographers who are new to China, or at least new to the Beijing area, will get the most out of The Field Guide. Nearly everyone arrives in Beijing with the same questions. The Field Guide gives you quick answers to those questions, and tackles a few issues you probably haven't anticipated yet.
 
 
-## How do I read the Field Guide?
+## How do you read the Field Guide?
 
-Because it's an ebook, you can read the Field Guide on your phone, tablet or computer. The book was written for travelers who need quick answers and is designed so it's easy to read on your phone. 
+Because it's an ebook, you can read the Field Guide on your phone, tablet or computer.
 
-Right now, the book is only available as an ebook via Amazon's Kindle platform. To read it:
+You can use any app that supports .epub files. Off the top of my head: iBooks, [Calibre](https://calibre-ebook.com/) and Kobo all support .epub files. Axet’s [Book Reader](https://axet.gitlab.io/android-book-reader/) is quickly becoming my personal favorite.
 
-1. Download the [Kindle app](https://www.amazon.com/kindle-dbs/fd/kcp).
-2. Buy the book using your Amazon account.
-3. Pack your camera bag…
+The book was written for travelers who need quick answers, and is designed so it's easy to read on your phone.
 
-You don’t need to sit down and read it cover to cover. Just use your phone or iPad and flip through the Field Guide for quick answers.
 
-Prefer to read the book in another format? [Let me know](mailto:hello@zachmccabe.com) and I'll consider it for the next edition.
+## Can you still read it on Kindle?
+
+Yes, you sure can. It is right [here.](https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/)
 
 
 ## Who won't like this book?
@@ -49,7 +57,7 @@ Prefer to read the book in another format? [Let me know](mailto:hello@zachmccabe
 This book isn't for everyone. There are no reviews of tourist attractions. There are no lessons about f-stops or composition, either.
 
 
-## Wait, do I need to be a pro to use this book?
+## Wait, do you need to be a pro to use this book?
 
 Nope. The only thing I assume is that you're new to China. The Field Guide helps you get to know Beijing from a photographer's perspective.
 
@@ -66,7 +74,7 @@ I don't accept free fish or any other payment for mentions. There are no affilia
 Readers asked for my opinions and expertise, and I value that.
 
 
-## Why do I need this book?
+## Why do you need this book?
 
 The Field Guide gives you 3 things:
 
@@ -77,16 +85,8 @@ The Field Guide gives you 3 things:
 The Field Guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
 
 
-### Why did you write this book?
 
-Beijing is my second home. I am excited to share it with you.
-
-I wrote this book so you can spend _more_ of your time focusing on photography, and less time worrying about logistics.
-
-After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it.
-
-
-### Troubleshooting Chinese text on old Kindle e-ink hardware
+## Troubleshooting Chinese text on old Kindle e-ink hardware
 
 iPhones, Android phones and Kindle hardware all typically display Chinese language text just fine. Some early Kindle e-ink devices may require you to fiddle with your font settings to display Chinese characters, though.
 
@@ -96,3 +96,8 @@ If you see little tofu blocks instead of Chinese characters, you’ll need to ch
 
  1. Hit the little **Aa icon** at the top of your screen to toggle the font settings options. This preference pane will let you choose a different font.
  2. Tap through your font options until the weird, little tofu boxes disappear and you can see Chinese characters alongside the English language text.
+
+
+## Why write a field guide?
+
+After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it. Books are self-contained and offline. That might be handy when you’re inside the great firewall.
