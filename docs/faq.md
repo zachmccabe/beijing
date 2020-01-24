@@ -1,7 +1,7 @@
 ---
 
 layout: hongbao
-title: Frequently asked questions
+title: FAQ
 pub-date: 2018-04-18
 mod-date: 2020-01-23
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
