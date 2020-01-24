@@ -20,13 +20,16 @@
 <a href="https://www.zachmccabe.com/about.html">About</a> • <a href="https://www.zachmccabe.com/contact.html">Contact</a>
 <h1>{{ page.title }}</h1>
 </header>
+
 <main>
 <div class="xwrap">
 <div class="xnest20">
 {{ content }}
+{% if page.cta %}<div class="kaoCTA"><p>{{ page.cta }}</p></div>{% else %}{% endif %}
 </div>
 </div>
 </main>
+
 <footer>
 <p><a href="mailto:hello@zachmccabe.com?Subject=Hi%20via%20{{ page.title }}">hello@zachmccabe.com</a></p>
 <p>&copy; 2017 – 2020 Zach McCabe</p>
