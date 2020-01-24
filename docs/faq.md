@@ -47,7 +47,7 @@ The book was written for travelers who need quick answers, and is designed so it
 
 ## Can you still read it on Kindle?
 
-Yes, you sure can. It is right [here.](https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/)
+Yes. You can read it [here.](https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/)
 
 
 ## Who won't like this book?
