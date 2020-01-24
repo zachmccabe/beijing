@@ -1,6 +1,6 @@
 ---
 
-layout: hongbao
+layout: ratyear
 title: FAQ
 pub-date: 2018-04-18
 mod-date: 2020-01-23
