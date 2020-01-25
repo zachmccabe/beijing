@@ -33,11 +33,18 @@ margin: 0 auto;
 padding-top: 3em;
 }
 
-.shu20 {
-margin: 0 auto;
+.xwrap {
+display: flex;
+flex-flow: column nowrap;
+align-items: center;
+min-height: 20em;
+justify-content: center;
 padding: 0 1em;
-text-align: center;
-width: 100%;
+margin: 0 auto;
+}
+
+.xnest20 {
+margin: auto;
 max-width: 20em;
 }
   
@@ -59,7 +66,8 @@ color: #268bd2;
 <h1>The Photographers Field Guide to Beijing</h1>
 </header>
 <section>
-<div class="shu20">
+<div class="xwrap">
+<div class="xnest20" style="text-align:center;">
 <p>Version 2 is here! It’s free. Grab the <a href="https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub">.epub</a> file, and read in your favorite app.</p>
 
 <div class="shuNAV">
@@ -71,8 +79,8 @@ Happy Rat Year from me to you –Zach
 
 <p><a href="https://www.zachmccabe.com/beijing/faq.html">FAQ</a></p>
 </div>
-</section>
 </div>
+</section>
 <footer>
 <p style="font-size:small;margin-top:5em;">&copy 2020 <a href="https://www.zachmccabe.com">zachmccabe.com</a></p>
 </footer>
