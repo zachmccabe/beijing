@@ -69,35 +69,30 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 All photos are 1000px with a 1:1 ratio.
 
+This update includes 3x more photos. The choice seemed straight forward: nearly everyone complained about the lack of pictures in the previous version.
+
 While v1 only included monochrome images (which were chosen to reinforce the contrarian vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
-Despite my concerns with taking up too much space on my Readers' devices, this update includes 3x more photos. The choice seemed straight forward: no one complained about storage limits with v1, nearly everyone complained about the lack of pictures.
 
-Amazon, iBooks and other platforms request authors upload "high resolution" files because platforms prefer to optimize images themselves. Because I'm now distributing the field guide on Amazon and directly as an ePub, I optimized images myself.
+Amazon v1 | Amazon v2 | EPUB v2
+--- | --- | ---  
+11 photos | 37 photos | 37 photos
+7978 KB* | 13537 KB* | 9360 KB†
 
-1. Ignore Amazon's advice and keep the dimensions "small" at 1000px. (BTW this stills takes up a full page in Kindle or iBooks on my desktop monitor. The field guide was written and designed assuming Readers will use a phone, maybe a tablet. Do you read books on a pixel-dense, 8k TV? Truly, I am curious. PLZ tell me: <hello@zachmccabe.com>)
+*According to the Amazon product pages.\
+†According to my Github repo.
+
+
+As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon *starts* with that same EPUB file. 
+
+Amazon, iBooks and other platforms request authors upload "original, high resolution" files. (There are some good reasons to request this. There are also some sloppy reasons to request this.) Because I'm now distributing the field guide on Amazon and also directly as an ePub, I optimized image files myself before before packing them. I need to keep my workflow streamlined:
+
+1. Keep photo dimensions "small," at 1000px 1:1. Again, navigating with my map and compass.
 2. Compress image files using [ImageOptim.](https://imageoptim.com/mac)
-3. Images are packed into the EPUB file. That file is uploaded to my Github repo and uploaded to Amazon.
+3. Pack these files and build the EPUB file. (That EPUB is uploaded to my Github repo, and also converted to MOBI and uploaded to Amazon.)
 
 
-**Comparison of the field guide, when uploaded to Amazon.**
 
-Version 1 | Version 2
---- | ---
-11 photos | 37 photos
-7978 KB* | 13537 KB*
-
-_*According to the Amazon product pages._
-
-
-**The ePub is smaller than the Amazon file.**
-
-EPUB | Amazon
---- | ---
-9360 KB* | 13537 KB†
-
-_*According to my Github repo._\
-_†According to the Amazon product page._
 
 
 
@@ -150,7 +145,7 @@ In the v1 field guide, I included 14 high-level, thumbnail maps alongside the 17
 
 Both the maps and other illustrations were created in SVG.
 
-New to SVG? Start with Joni Trythall's [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/). It is brilliant, and I only wish I'd found it sooner.
+Joni Trythall's [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/) is brilliant, and I only wish I'd found it sooner.
 
 Maps were illustrated using [Maperative](http://maperitive.net/) on top of open-source [OSM data](http://www.openstreetmap.org/about). Some hand-polishing of the raw XML and the output SVG files was needed. Maperative is a brilliant tool although it takes some extra work to get it up and running on MacOS. 
 
@@ -166,20 +161,13 @@ Other illustrations were just coded by hand in [BBEdit](https://www.barebones.co
 
 
 - Photographers Field Guide v2: Assuming enough time has past that it's safe to go with PNG.
-- Photographers Field Guide v1: To be safe, all non-photo assets were translated to GIF for max backwards compatibility.
+- Photographers Field Guide v1: All non-photo assets were translated to GIF for max backwards compatibility.
 
+Originally, all the maps and illustrations in the v1 field guide were to be published in SVG. According to both the ePub spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
 
-I had planned on using vector graphics for all the maps and illustrations in the v1 field guide: when well-written, a vector graphic has a tiny file size compared to a raster graphic. This adds up fast. Vectors can squeeze or scale and look good on any screen, too. According to both the ePub spec and Amazon's spec for their own formats, SVG should've worked.
+At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the v1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
 
-Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
-
-At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the v1 field guide, it looked like my only options were JPG for photos, and GIF for everything else.
-
-(You really have to read between the lines with Amazon's "author guidelines." Better yet, spend time in user and dev forums. It strikes me that, mostly, what Amazon wants is for authors to build content for their POD platform and Fire tablets. Their documentation feels more like marketing.)
-
-Thanks to [Image Magick](https://www.imagemagick.org/script/index.php) and [Inkscape](https://inkscape.org/en/), I was able to get everything translated to GIF.<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup>
-
-Finally, everything was put through [ImageOptim](https://imageoptim.com/mac) to compress the files down as small as possible.
+**ImageOptim** was used to compress the files down as small as possible.
 
 Creating the illustrations and thumbnail maps was certainly the most challenging part of the v1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
 
