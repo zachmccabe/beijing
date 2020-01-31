@@ -79,7 +79,7 @@ Amazon v1 | Amazon v2 | EPUB v2
 11 photos | 37 photos | 37 photos
 7978 KB* | 13537 KB* | 9360 KB†
 
-*According to the Amazon product pages.\
+*According to the Amazon product pages.<br/>
 †According to my Github repo.
 
 
