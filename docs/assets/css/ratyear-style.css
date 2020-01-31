@@ -134,12 +134,11 @@ li {
 }
 
 table {
-  margin: 5em auto;
+  margin: 1em auto;
 }
 
 th {
   margin: 1em;
-  text-transform: uppercase;
 }
 
 th, td {
