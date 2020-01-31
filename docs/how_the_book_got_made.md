@@ -89,7 +89,7 @@ Version 1 | Version 2
 11 photos | 37 photos
 7978 KB* | 13537 KB*
 
-_\*\According to the Amazon product pages._
+_*According to the Amazon product pages._
 
 
 **The ePub is smaller than the Amazon file.**
@@ -98,8 +98,8 @@ EPUB | Amazon
 --- | ---
 9360 KB* | 13537 KB†
 
-_\*\According to my Github repo._\
-_\†\According to the Amazon product page._
+_*According to my Github repo._\
+_†According to the Amazon product page._
 
 
 
