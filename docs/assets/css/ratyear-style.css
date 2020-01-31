@@ -144,8 +144,8 @@ th {
 th, td {
   border-bottom: 1px dotted currentColor;
   color: currentColor;
+  font-size: small;
   text-align: left;
-  text-size: small;
   padding: 0.5em;
 }
 
