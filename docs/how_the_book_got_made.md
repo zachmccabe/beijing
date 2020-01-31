@@ -6,7 +6,8 @@ mod-date: 2020-01-30
 title: How the book got made
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: Here's how I put together my non-fiction book for Kindle. Wanna hint? Expect surprises…
-cta: Your feedback on methods, tools and – of course – the field guide itself is always welcome. Let me know what you think: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+cta: "Your feedback on methods, tools and – of course – the field guide itself is always welcome. Let me know what you think: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>"
+
 
 ---
 
