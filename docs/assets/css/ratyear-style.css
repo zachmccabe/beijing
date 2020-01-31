@@ -136,15 +136,16 @@ li {
 table {
   margin: 1em auto;
 }
-
+/*
 th {
   margin: 1em;
 }
-
+*/
 th, td {
   border-bottom: 1px dotted currentColor;
   color: currentColor;
   text-align: left;
+  text-size: small;
   padding: 0.5em;
 }
 
