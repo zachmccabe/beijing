@@ -149,6 +149,9 @@ th, td {
   padding: 0.5em;
 }
 
+table + h2, h3, h4 {
+  margin-top: 5em;
+}
 
 
 /* TYPOGRAPHY */
