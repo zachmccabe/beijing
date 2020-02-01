@@ -10,9 +10,7 @@ cta: Your feedback on methods, tools and – of course – the field guide itsel
 ---
 
 
-*Updated: Jan 31 2020.* For the 3rd time in >5 years, I've rewritten the field guide.
-
-It's like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildy enough that your sleep is anxious.
+*Updated: Jan 31 2020.* For the 3rd time in >5 years, I've rewritten the field guide. It's like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildy enough that your sleep is anxious.
 
 Is it weird that I find the rhythm comforting anyway?
 
@@ -69,9 +67,9 @@ Test it! In the beta that went out to a hardy group of testers (readers?), the o
 
 All photos are 1000px with a 1:1 ratio.
 
-This update includes 3x more photos. The choice seemed straight forward: nearly everyone complained about the lack of pictures in the previous version.
+This update includes 3x more photos compared to the v1 field guide. The choice seemed straight forward: nearly everyone complained about the lack of pictures in the previous version.
 
-While v1 only included monochrome images (which were chosen to reinforce the contrarian vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
+While v1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
 
 Amazon v1 | Amazon v2 | EPUB v2
@@ -92,17 +90,9 @@ Amazon, iBooks and other platforms request authors upload "original, high resolu
 3. Pack these files and build the EPUB file. (That EPUB is uploaded to my Github repo, and also converted to MOBI and uploaded to Amazon.)
 
 
-
-### Version 1
-
-Eleven photos, each 1500 px with a 1:1 ratio, were included in the v1 field guide. Files weighed between 220 - 500 kb when uploaded to Amazon. Because I wanted to give Amazon's own compression algorithms as much data to work with as possible, I didn't compress the JPGs at all.
-
-
-### More notes from V1: picture perfect
+### Notes from V1: picture perfect?
 
 Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup> Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. The platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
-
-Compared to looking at photos using a web browser, in Kindle, neither the author or the reader have much control. Expectations for the Field Guide were high, regardless.
 
 Research told me many photographers are very choosy about their displays – my images would need to meet the demands of top-shelf phones and tablets.<sup><a id="ref2" href="#note2" alt="footnote">2</a></sup>
 
@@ -130,7 +120,7 @@ Last Days of Old Beijing | 7559 KB
 
 **If you can't get there, you probably can't photograph it.**
 
-Offline maps weren't part of the plan, at first. _If most readers will be reading the Field Guide on their phone, won't they just reach for their favorite maps app?_
+Offline maps weren't part of the plan, at first. _If most readers will be reading the field guide on their phone, won't they just reach for their favorite maps app?_
 
 As research progressed I realized that I'd need to include custom maps for 3 reasons. Feedback from early readers convinced me that:
 
@@ -156,8 +146,8 @@ Other illustrations were just coded by hand in [BBEdit](https://www.barebones.co
 
 **Reality is not spec. Face palm.**
 
-- Photographers Field Guide v2: Assuming enough time has past that it's safe to go with PNG.
-- Photographers Field Guide v1: All non-photo assets were translated to GIF for max backwards compatibility.
+- **Photographers Field Guide v2:** Assuming enough time has past that it's safe to go with PNG.
+- **Photographers Field Guide v1:** All non-photo assets were translated to GIF for max backwards compatibility.
 
 Originally, all the maps and illustrations in the v1 field guide were to be published in SVG. According to both the ePub spec and Amazon's spec for their own formats, SVG should've worked. Reality is not spec. Early tests (2016) revealed that, in fact, Kindle's SVG support was too limited. 
 
@@ -194,24 +184,16 @@ From Gitbook, it was easy to export the whole thing as an EPUB. The output was a
 
 ## Writing for mobile
 
-Presentation [width](https://baymard.com/blog/line-length-readability) is critically important to the readability with any text.
-
+Presentation [width](https://baymard.com/blog/line-length-readability) is important to the readability with any text.
 
 - On narrow phone screens, short lines of text feel breathless.
 - On wider screens, long lines of text are fatiguing.
 
+Assuming that most Readers would be paging through the field guide on their phones and tablets, I wrote for _that_. And that took some practice. I reread the [usual sources](https://ux.stackexchange.com/questions/108801/what-is-the-best-number-of-paragraph-width-for-readability). I spent a lot of time working on the flow of information across sections, paragraphs and sentences. I refined my tone, syntax and word choice for the environment I assume my Reader will inhabit<sup><a id="ref4" href="#note4" alt="footnote">4</a></sup> while reading the field guide.
 
-Some apps/platforms do a better job of helping Readers understand they can tweak UI options (e.g. line height, columns, font choice).
+The [AP Stylebook](https://www.zachmccabe.com/beijing/bts_style_guide.html) might be Religion, but the good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues.
 
-Presentation will continue to be a challenge for authors of digital books, web pages and any other situation where content flows to fit in un-fixed containers. It seems to me that this is simply a natural characteristic of this medium.
-
-Assuming that most Readers would be paging through the field guide on their phones, I wrote for _that_. It took some practice. I reread the [usual sources](https://ux.stackexchange.com/questions/108801/what-is-the-best-number-of-paragraph-width-for-readability).
-
-The [AP Stylebook](https://www.zachmccabe.com/beijing/bts_style_guide.html) might be Religion, but the good book provides no advice on typefaces, [line length](http://maxdesign.com.au/articles/em/) or other UI issues. More useful:
-
-- [Butterick](https://practicaltypography.com/line-length.html)
--  And the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106).
-
+[Butterick](https://practicaltypography.com/line-length.html) and the [BBC](http://www.bbc.co.uk/academy/journalism/skills/digital-journalism/article/art20141202144618106) did have some ideas.
 
 For the v2 field guide, I needed to step back and reorganize the book's structure once again. Abby Covert's book, ["How to make sense of any mess"](http://www.howtomakesenseofanymess.com/) and Craig Mod's [essays](https://craigmod.com/essays/to_make_a_book_walk_on_a_book/) were very helpful.
 
@@ -247,12 +229,19 @@ There are several challenges with photos and visual content – and Amazon itsel
 
 **Grayscale, btw.** Kindle documention doesn't mention which grayscale conversion standard they utilize (or if it's proprietary, which some authors have asserted). I can only say that it's worth testing your color illustrations on Amazon's own e-ink hardware. <a href="#ref1" alt="back">↩</a>
 
+
 <h4 id="note2">Note 2</h4>
 
 [DPI.lv](http://dpi.lv/) helped me get a better idea of my reader's resolution needs. Then it was time to experiment. Like the rest of the content, photos were tested on half a dozen different devices. Then I solicited feedback (and screenshots) from beta testers. <a href="#ref2" alt="back">↩</a>
+
 
 <h4 id="note3">Note 3</h4>
 
 ImageMagick's great `convert` command let me quickly transform SVGs to GIFs. However, it did have some trouble with the bilingual copy on my maps.
 
 I needed all the visuals to look consistent, and styled the text with a generic `font-family="sans-serif"`. But ImageMagick stumbled with Chinese fonts. The program outputted Chinese text in serifed type, even though it outputted English text in the sans-serif I expected. As I couldn't find a remedy, the SVG maps were converted to GIF using Inkscape instead. <a href="#ref3" alt="back">↩</a>
+
+
+<h4 id="note4">Note 4</h4>
+
+Some apps/platforms do help Readers understand they can tweak UI options (e.g. line height, columns, font choice). It isn't always so obvious, though: Some of my Readers had trouble with this, which startled me – I'd assumed their meme fluency and Reddit expeditions meant it'd be obvious. <a href="#ref4" alt="back">↩</a>
