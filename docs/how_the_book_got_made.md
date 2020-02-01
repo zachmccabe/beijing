@@ -17,9 +17,9 @@ It's like bouncing along in a noisy, old carriage on the overnight train – the
 Is it weird that I find the rhythm comforting anyway?
 
 
-- v2.0.0: Jan 2020, published via free ePub and on Kindle
-- v1.0.0: May 2017, published on Amazon Kindle
-- v0.0.0: Oct 2016, unpublished
+- **v2.0.0:** Jan 2020, published via free ePub and on Kindle
+- **v1.0.0:** May 2017, published on Amazon Kindle
+- **v0.0.0:** Oct 2016, unpublished
 - Research begins in early 2015
 
 
@@ -45,7 +45,7 @@ It would take extra work, I knew. This was my first book. From research, to draf
 ## Map and compass
 Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.html), a [compass](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) and a soundtrack. I listened to [Halsey's cover](https://youtu.be/YIznx_ek98M) of "The Sound" on BBC Radio 1 about 5k times.
 
-All of my decisions are made using that [map](https://www.zachmccabe.com/beijing/bts_style_guide.html) and [compass.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
+All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
 
 
 ## Photos
@@ -79,8 +79,8 @@ Amazon v1 | Amazon v2 | EPUB v2
 11 photos | 37 photos | 37 photos
 7978 KB* | 13537 KB* | 9360 KB†
 
-*According to the Amazon product pages.<br/>
-†According to my Github repo.
+<p style="font-size:small;">*According to the Amazon product pages.<br/>
+  †According to my Github repo.</p>
 
 
 As you can see in the table above, the EPUB weighs less than the Amazon version, which is interesting because Amazon *starts* with that same EPUB file. 
@@ -90,9 +90,6 @@ Amazon, iBooks and other platforms request authors upload "original, high resolu
 1. Keep photo dimensions "small," at 1000px 1:1. Again, navigating with my map and compass.
 2. Compress image files using [ImageOptim.](https://imageoptim.com/mac)
 3. Pack these files and build the EPUB file. (That EPUB is uploaded to my Github repo, and also converted to MOBI and uploaded to Amazon.)
-
-
-
 
 
 
@@ -159,7 +156,6 @@ Other illustrations were just coded by hand in [BBEdit](https://www.barebones.co
 
 **Reality is not spec. Face palm.**
 
-
 - Photographers Field Guide v2: Assuming enough time has past that it's safe to go with PNG.
 - Photographers Field Guide v1: All non-photo assets were translated to GIF for max backwards compatibility.
 
@@ -177,17 +173,13 @@ Worth it? <strike>Absolutely. So far nobody has said a thing – which means the
 
 ## Copy
 
-**Writing a book will tucker you out, so I try to keep my tools simple and streamlined.**
-
-
 ### Version 2
-
-Gitbook changed their product offering, and wasn't used in this version.
 
 Everything was written in Markdown, using **TextEdit.** Then, using [Pandoc,](https://pandoc.org/) I built a rough ePub. This was hand polished with [Calibre](https://calibre-ebook.com/) and **BBEdit.**
 
 All are excellent tools. Calibre is very useful for editing and debugging ePub files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
 
+Gitbook changed their product offering, and wasn't used in this version.
 
 
 ### Version 1
@@ -231,7 +223,7 @@ For the v2 field guide, I needed to step back and reorganize the book's structur
 
 The Photographers Field Guide to Beijing is the first book I've written. It's not the first book I've helped produce, though. It's also not my first big, hairy project. 
 
-Nevertheless, there were a few false summits that caught me by surprise. I took some wrong turns. Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
+Nevertheless, there were a few false summits. I took some wrong turns. Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
 
 1. Find your beta testers (beta readers?) as soon as you can. Treat their time with respect. This feedback is invaluable.
 2. Then, find a good editor. If you're including maps, illustrations and photos, pull in a photo editor or a designer, too. These eagle-eyed folks will catch mistakes and help you through the 11th-hour gales.
