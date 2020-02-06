@@ -4,10 +4,10 @@ layout: pek
 pub-date: 2017-09-06
 mod-date: 2018-09-29
 title: What's the best travel guidebook for Beijing?
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
+image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: China is well-covered, and you’ve got great options if you want a general-purpose guidebook.
 lede: China is well-covered, and you’ve got great options if you want a general-purpose guidebook.
-cta: You can use the Kindle app on your phone to read <b>The Photographers Field Guide to Beijing</b>. Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">your copy</a> before your flight boards.
+cta: You can read the <b>Photographers Field Guide to Beijing</b> for free. Get <a href="https://www.zachmccabe.com/beijing">your copy</a> before your flight boards.
 
 ---
 
@@ -20,11 +20,13 @@ Because I like to travel light, I have the Kindle-version of both books:
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-downpour-1k.jpg" alt="Cyclist riding through a flooded street during a summer downpour." />
-  <figcaption>
-    <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
-  </figcaption>
+<img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
+<figcaption>
+<p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
+</figcaption>
 </figure>
+
+
 
 ### Why bother with a travel guidebook?
 
