@@ -3,12 +3,13 @@ layout: pek
 pub-date: 2017-09-07
 mod-date: 2018-06-04
 title: What's in my travel camera bag?
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
+image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: Between you and me, I'm convinced that camera gear has nothing to do with good travel photography.
 lede: Between you and me, I'm convinced that camera gear has nothing to do with good travel photography.
-cta: Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">The Field Guide</a> for more on dealing with smog, dust storms and tips on the best locations for capturing Beijing's seasons. And remember, wherever you are, bad weather makes better pictures.
+cta: Read <a href="https://www.zachmccabe.com/beijing">the field guide</a> for more on dealing with smog, dust storms and tips on the best locations for capturing Beijing's seasons. And remember, wherever you are, bad weather makes better pictures.
 
 ---
+
 
 ### Pack light for flexibility
 
@@ -18,10 +19,10 @@ Tl;dr: [Batteries,](https://www.zachmccabe.com/beijing/my_bag.html#batteries) [c
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/proof/bw-reflector-1k.jpg" alt="12-inch reflector" />
-  <figcaption>
-    <p>A 12-inch reflector packs down flat, and is the diameter of a Chinese tea cup. It doesn't need batteries and weighs next to nothing. • Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
-  </figcaption>
+<img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
+<figcaption>
+<p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
+</figcaption>
 </figure>
 
 
