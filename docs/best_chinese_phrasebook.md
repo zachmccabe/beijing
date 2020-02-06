@@ -4,12 +4,13 @@ layout: pek
 pub-date: 2017-09-06
 mod-date: 2018-08-21
 title: What’s the best Chinese phrasebook for photographers?
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
+image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: Being able to connect with people in their own language might be the most underrated tool in the travel photographer’s camera bag.
 lede: Being able to connect with people in their own language might be the most underrated tool in the travel photographer’s camera bag.
-cta: Want to interpret China’s capital from a photographer’s perspective? Read <b>The Photographers Field Guide to Beijing</b>. Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="">your copy</a> before your flight boards.
+cta: Want to interpret China’s capital from a photographer’s perspective? Read <b>The Photographers Field Guide to Beijing</b>. It is<a href="https://www.zachmccabe.com/beijing">free.</a>
 
 ---
+
 
 ### Listen up
 
@@ -26,11 +27,12 @@ Whatever you pick, make sure you learn with your ears. Get something that focuse
 
 
 <figure>
-<img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-hotpot-1k.jpg" alt="Hotpot with friends." />
-  <figcaption>
-    <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
-  </figcaption>
+<img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
+<figcaption>
+<p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
+</figcaption>
 </figure>
+
 
 
 ### There’s an app for that, etc
