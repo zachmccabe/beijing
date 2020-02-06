@@ -3,7 +3,7 @@ layout: pek
 title: What are the best apps for photographers visiting China?
 pub-date: 2017-09-06
 mod-date: 2018-06-03
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
+image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: You’ve got the gear to shoot scenics at the Great Wall… but is your phone ready for the Great Firewall?
 lede: You’ve got the gear to shoot scenics at the Great Wall… but is your phone ready for the Great Firewall? Pack these.
 cta: You can use the Kindle app on your phone to read <b>The Photographers Field Guide to Beijing</b>. Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">your copy</a> before your flight boards.
@@ -18,12 +18,12 @@ cta: You can use the Kindle app on your phone to read <b>The Photographers Field
 Apps like [The Photographer’s Ephemeris](http://photoephemeris.com/) and [PhotoPills](http://www.photopills.com/)  are handy tools – but neither work so well in China. Because they rely heavily on Google Maps and web services, you will run into some serious usability issues. Read more here: [China’s Map Gap](https://www.zachmccabe.com/beijing/china_map_gap.html#ready-for-red-tape).
 
 
-<figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-nlgx-1k.jpg" alt="Looking into a siheyuan on Nanluoguxiang, renovated and repurposed as a restaurant." />
-    <figcaption>
-      <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
-    </figcaption>
-</figure>
+<picture>
+  <source srcset="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.webp" type="image/webp">
+  <img src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night">
+</picture>
+
+<p style="font-weight:bold;text-size:small;">Gulou at night. From the Photographers Field Guide to Beijing.</p>
 
 
 ### Handpicked travel apps
