@@ -23,7 +23,7 @@ Apps like [The Photographer’s Ephemeris](http://photoephemeris.com/) and [Phot
   <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night">
 </picture>
 
-<p style="font-weight:bold;text-size:small;">Gulou at night. From the Photographers Field Guide to Beijing.</p>
+<p style="font-weight:bold;font-size:small;">Gulou at night. From the Photographers Field Guide to Beijing.</p>
 
 
 ### Handpicked travel apps
