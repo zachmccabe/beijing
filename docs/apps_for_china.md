@@ -18,12 +18,15 @@ cta: You can use the Kindle app on your phone to read <b>The Photographers Field
 Apps like [The Photographer’s Ephemeris](http://photoephemeris.com/) and [PhotoPills](http://www.photopills.com/)  are handy tools – but neither work so well in China. Because they rely heavily on Google Maps and web services, you will run into some serious usability issues. Read more here: [China’s Map Gap](https://www.zachmccabe.com/beijing/china_map_gap.html#ready-for-red-tape).
 
 
+<figure>
 <picture>
   <source srcset="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.webp" type="image/webp">
-  <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night">
+  <img src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night">
 </picture>
-
-<p style="font-weight:bold;font-size:small;">Gulou at night. From the Photographers Field Guide to Beijing.</p>
+<figcaption>
+<p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
+</figcaption>
+</figure>
 
 
 ### Handpicked travel apps
