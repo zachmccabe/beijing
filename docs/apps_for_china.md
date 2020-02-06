@@ -6,7 +6,7 @@ mod-date: 2018-06-03
 image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: You’ve got the gear to shoot scenics at the Great Wall… but is your phone ready for the Great Firewall?
 lede: You’ve got the gear to shoot scenics at the Great Wall… but is your phone ready for the Great Firewall? Pack these.
-cta: You can use the Kindle app on your phone to read <b>The Photographers Field Guide to Beijing</b>. Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">your copy</a> before your flight boards.
+cta: You can read the <b>Photographers Field Guide to Beijing</b> for free. Get <a href="https://www.zachmccabe.com/beijing">your copy</a> before your flight boards.
 
 ---
 
@@ -19,7 +19,7 @@ Apps like [The Photographer’s Ephemeris](http://photoephemeris.com/) and [Phot
 
 
 <figure>
-  <img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
+<img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
 <figcaption>
 <p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
 </figcaption>
