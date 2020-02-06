@@ -4,12 +4,13 @@ layout: pek
 pub-date: 2017-09-17
 mod-date: 2018-06-05
 title: China's Map Gap
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
+image: https://www.zachmccabe.com/beijing/assets/viz/cover-500h.jpg
 description: Geotagging isn’t the problem, your map is just broken. Learn what you can do about it.
 lede: Geotagging isn’t the problem, your map is just broken. Learn what you can do about it.
-cta: You can use the Kindle app on your phone to read <b>The Photographers Field Guide to Beijing</b>. Get <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">your copy</a> before your flight boards.
+cta: Don’t get lost. Get the <b>Photographers Field Guide to Beijing</b>. It’s free and you can <a href="https://www.zachmccabe.com/beijing">read it</a> anywhere.
 
 ---
+
 
 ### Can I geotag my images in China?
 
@@ -17,10 +18,10 @@ Because there is a maze of red tape and corporate CYA surrounding geolocation te
 
 
 <figure>
-  <img class="vizdot" src="https://www.zachmccabe.com/beijing/assets/viz/hero/bw-baitasi-1k.jpg" alt="Baitasi on a smoggy day." />
-  <figcaption>
-    <p>Not everything fits in an ebook: this is an <b>extra chapter</b> from The Photographers Field Guide to Beijing.</p>
-  </figcaption>
+<img class="vizproof" src="https://www.zachmccabe.com/beijing/assets/viz/v2-5c.jpg" alt="Gulou at night" />
+<figcaption>
+<p>Gulou at night. From the Photographers Field Guide to Beijing.</p>
+</figcaption>
 </figure>
 
 
