@@ -46,11 +46,15 @@ Small screens are likely to be used by readers. It's a travel book after all. Wr
 
 Spelling is American English or Pinyin Chinese. Readership includes English speakers from _outside_ the US so it is important to be cognizant of these things. For the same reason, it is important to use standards of measure that are international.
 
-(Beijingers will expect you not only to use the metric system, but also local standards like <mark>jin <span lang="zh">斤</span></mark> and <mark>wan <span lang="zh">万</span></mark>.)
+(Beijingers will expect you not only to use the metric system, but also local standards like <span class="hilite">jin <span lang="zh">斤</span></span> and <span class="hilite">wan <span lang="zh">万</span></span>.)
 
 ### Tone
 
-Tone should be personal and fun. Move it along because people need answers to their questions. They may already be on the ground. TBH try to go easy on the abbreviations, and for fuckssake don't say fuck. This book is meant for a wide-ish audience.
+Tone should be personal and fun.
+
+Move it along because people need answers to their questions. The Reader may already be on the ground.
+
+TBH try to go easy on the abbreviations, and for fuckssake don't say fuck. This book is meant for a wide-ish audience.
 
 
 
@@ -110,6 +114,10 @@ Be careful with links in the ebook. First, it annoyed beta readers to skip ahead
 
 ### Multilingual
 
-Multilingual words and phrases are noted with `<span>` tags and CSS. Chinese gets `<span lang="zh">` tags. Within a paragraph, the result looks like this: `<span class="hilite">English <span lang="zh">汉字</span></span>`. In the ebook, the `<mark>` tag is not used for this purpose because Kindle overrides custom CSS for this tag. Also, I wondered if `<mark>` might interfere with the user experience in both Kindle and some EPUB reader apps where Readers can highlight text?
+Multilingual words and phrases are noted with `<span>` tags and CSS.
 
-On the mini site (like the rest of my website) I do use the `<mark>` tag and CSS to visually separate a multilingual span for The Reader, like this: <mark><span class="hilite">English <span lang="zh">汉字</span></mark>.
+Chinese gets `<span lang="zh">` tags.
+
+The result looks like this: `<span class="hilite">English <span lang="zh">汉字</span></span>`.
+
+In the ebook, the `<mark>` tag is not used for this purpose because Kindle overrides custom CSS for this tag. Also, I wondered if `<mark>` might interfere with the user experience in both Kindle and some EPUB reader apps where Readers can highlight text?
