@@ -2,13 +2,13 @@
 
 layout: ratyear
 title: FAQ
-pub-date: 2018-04-18
-mod-date: 2020-01-23
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
-description: Have a question about the Photographers Field Guide to Beijing? Let’s get you an answer!
-cta: Still curious? Have a <a href="https://www.zachmccabe.com/beijing/">read.</a>
+date: 2018-04-18
+update: 2020-01-23
+description: FAQ for the Photographers Field Guide to Beijing
 
 ---
+
+Updated: {% include print_update.html %} • Have a question about this project? Here's what your fellow Readers have been asking.
 
 
 * [What is the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#what-is-the-latest-version-of-the-field-guide)
