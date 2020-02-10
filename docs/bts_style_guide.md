@@ -4,7 +4,7 @@ date: 2017-12-05
 update: 2020-02-10
 title: Style guide
 description: Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
-cta: <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">book.</a>
+cta: <a href="mailto:hello@zachmccabe.com?Subject=Hi%20via%20{{ page.title }}">hello@zachmccabe.com</a>
 
 ---
 
