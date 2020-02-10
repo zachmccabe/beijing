@@ -39,7 +39,7 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 ## How do you read the Field Guide?
 
-You can use any app that supports .epub files. Off the top of my head: **iBooks,** [Calibre](https://calibre-ebook.com/) and **Kobo** all support .epub files. Axet’s [Book Reader](https://axet.gitlab.io/android-book-reader/) is quickly becoming my personal favorite.
+You can use any app that supports EPUB files. Off the top of my head: **iBooks,** [Calibre](https://calibre-ebook.com/) and **Kobo** all support EPUB files. Axet’s [Book Reader](https://axet.gitlab.io/android-book-reader/) is quickly becoming my personal favorite.
 
 The book was written for travelers who need quick answers, and is designed so it's easy to read on your phone.
 
@@ -66,9 +66,9 @@ The art. The architecture. The attitude. Expect photo ops of a vibrant city that
 
 ## Who sponsored this project, then?
 
-I don't accept free fish or any other payment for mentions. There are no affiliate links. There are no secret sponsors.
+There are no sponsors. There are no affiliate links. I don't accept free fish or any other payment for mentions.
 
-Readers asked for my opinions and expertise, and I value that.
+Photographers asked for my opinions and expertise, and I value their trust.
 
 
 ## Why do you need this book?
