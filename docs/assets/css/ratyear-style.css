@@ -204,9 +204,10 @@ blockquote + h2, h3, h4 {
   margin-top: 5em;
 }
 
-mark {
+mark, .hilite {
   border-bottom: 1px dotted currentColor;
   color: currentColor;
+  font-size: calc(100% - 0.1em);
   padding: 0.1em;
   text-decoration: none;
 }
