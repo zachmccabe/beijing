@@ -4,46 +4,48 @@ pub-date: 2017-11-08
 mod-date: 2020-01-30
 title: How the book got made
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
-description: Here's how I put together my non-fiction book for Kindle. Wanna hint? Expect surprises…
+description: Notes on putting together a nonfiction ebook
 cta: Your feedback on methods, tools and – of course – the field guide itself is always welcome. Let me know what you think. <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
+nav: |
+  + [Map and compass](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#map-and-compass)
+  + [Timeline](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#timeline)
+  + [The long way](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#the-long-way)
+  + [Photos](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#photos)
+  + [Maps and illustrations](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#maps-and-illustrations)
+  + [Copy](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#copy)
+  + [Writing for mobile](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#writing-for-mobile)
+  + [Lessons learned](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#lessons-learned)
 
 ---
 
 
-*Updated: Jan 31 2020.* For the 3rd time in >5 years, I've rewritten the field guide. It's like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildy enough that your sleep is anxious.
+Updated: Jan 31 2020 • These notes explain how and why I built the field guide the way I did. If you're curious about digital books, take a peak.
 
-Is it weird that I find the rhythm comforting anyway?
+For the 3rd time in less than 5 years, I've rewritten the field guide. It feels like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildy enough that your sleep is anxious. Is it weird that I find the rhythm comforting anyway?
 
 
-- **v2.0.0:** Jan 2020, published via free ePub and on Kindle
-- **v1.0.0:** May 2017, published on Amazon Kindle
-- **v0.0.0:** Oct 2016, unpublished
+{ include page_nav.html }
+
+
+## Map and compass
+
+Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.html), a [compass](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) and a soundtrack. I listened to [Halsey's cover](https://youtu.be/YIznx_ek98M) of "The Sound" on BBC Radio 1 about 5k times.
+
+All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
+
+
+## Timeline
+
+- **v2.0.0:** Jan 2020. Published via free ePub and on Kindle.
+- **v1.0.0:** May 2017. Published on Kindle.
+- **v0.0.1:** Oct 2016.
 - Research begins in early 2015
-
-
-Thankfully, only 1 brave soul had to endure that very first iteration. (And I'm thankful he did! His feedback convinced me that the book would need to be reorganized. At that point, I also ripped out much of the exsisting copy and started writing again.)
-
-
-
-* [The long way](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#the-long-way)
-* [Map and compass](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#map-and-compass)
-* [Photos](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#photos)
-* [Maps and illustrations](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#maps-and-illustrations)
-* [Copy](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#copy)
-* [Writing for mobile](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#writing-for-mobile)
-* [Lessons learned](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#lessons-learned)
-
 
 
 ## The long way
 
-It would take extra work, I knew. This was my first book. From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
+From research, to draft and design, to marketing and shipping the final product, I wanted to be hands-on for the whole process. Trading efficiency for a fully DIY approach would give me important insight for the next book… Wouldn't it?
 
-
-## Map and compass
-Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.html), a [compass](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) and a soundtrack. I listened to [Halsey's cover](https://youtu.be/YIznx_ek98M) of "The Sound" on BBC Radio 1 about 5k times.
-
-All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
 
 
 ## Photos
@@ -92,13 +94,13 @@ Amazon, iBooks and other platforms request authors upload "original, high resolu
 
 ### Notes from V1: picture perfect?
 
-Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup> Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. The platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
+Kindle is not a charitable platform for any kind of images – and delivering high-quality photography to readers is especially troublesome.<sup><a id="ref1" href="#note1" alt="footnote">1</a></sup>
+
+Compare Kindle to Apple's iBooks: Amazon charges authors by file size, for one thing. Meanwhile, the platform's code limits the responsive options we all take for granted with modern web browsers. And readers' devices run the gamut. (No more colorspace puns, I promise!)
 
 Research told me many photographers are very choosy about their displays – my images would need to meet the demands of top-shelf phones and tablets.<sup><a id="ref2" href="#note2" alt="footnote">2</a></sup>
 
-But device storage space is truly at a premium during international trips.
-
-An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
+But device storage space is truly at a premium during international trips. An ebook like mine would be competing for space alongside movies for the flight, other ebooks and travel apps, and, most importantly for photographers, copies of their own images. It is easy to imagine a Reader backing up her photos to an iPad. She might also proof those images with an app like Lightroom, too.
 
 So, I was much less concerned about showing off high-quality images in the book than I was with the risk of taking up space on Readers' devices. Then there is that irritable warning from Kindle to customers: _"Due to its large file size, this book may take longer to download."_
 
