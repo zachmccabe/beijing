@@ -1,21 +1,20 @@
 ---
-
-layout: pek
-pub-date: 2017-12-05
-mod-date: 2020-02-10
+layout: ratyear
+date: 2017-12-05
+update: 2020-02-10
 title: Style guide
 description: Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
 cta: <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Get your copy on Amazon">book.</a>
 
 ---
 
-Updated: {% include page.mod-date %} • Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
+Updated: {% include print_update.html %} • Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
 
 ## Mostly AP style?
 
 Both the ebook and the mini site default to the **AP Style Guide** for spelling and punctuation. Yes, I _do_ know that it is obtuse at times. That's why:
 
-* AP date format is annoying. Use YYYY-MM-DD instead. E.g. "page last updated." 
+* AP date format is annoying. Use MON DD YYYY instead. E.g. see "Updated: {% include print_update.html %}" at the top of this page.
 * Numbers are never spelled out. Line-length is short, each character counts. Names might be an exception.
 * Pinyin romanization is always used for Chinese words, names and places (see: Chinese).
 * Ellipses are used as a narrative device (see: tone) – not to truncate quotes. Because this is not a newspaper…
