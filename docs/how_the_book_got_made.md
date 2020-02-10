@@ -19,7 +19,7 @@ nav: |
 ---
 
 
-Updated: Jan 31 2020 • These notes explain how and why I built the field guide the way I did. If you're curious about digital books, take a peak.
+Updated: {% include print_update.html %} • These notes explain how and why I built the field guide the way I did. If you're curious about digital books, take a peak.
 
 For the 3rd time in less than 5 years, I've rewritten the field guide. It feels like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildy enough that your sleep is anxious.
 
