@@ -76,7 +76,7 @@ This update includes 3x more photos compared to the v1 field guide. The choice s
 While v1 only included monochrome images (which were chosen to reinforce the vibe of the book), I decided to ditch that approach this time because it wasn't working for my readers.
 
 
-Amazon v1 | Amazon v2 | EPUB v2
+Kindle v1 | Kindle v2 | EPUB v2
 --- | --- | ---  
 11 photos | 37 photos | 37 photos
 7978 KB* | 13537 KB* | 9360 KB†
