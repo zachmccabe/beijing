@@ -1,11 +1,8 @@
 ---
 layout: ratyear
-pub-date: 2017-11-08
-mod-date: 2020-01-30
+date: 2017-11-08
+date: 2020-01-30
 title: How the book got made
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
-description: Notes on putting together a nonfiction ebook
-cta: Your feedback on methods, tools and – of course – the field guide itself is always welcome. Let me know what you think. <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a>
 nav: |
   + [Map and compass](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#map-and-compass)
   + [Timeline](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#timeline)
@@ -215,6 +212,10 @@ From the start I knew I wanted to do the whole thing myself. I wanted to underst
 
 Make a book. You'll be happy you did.
 
+
+<div class="shuCTA">
+<p>Your feedback on methods, tools and – of course – the field guide itself is always welcome. Let me know what you think: <a href="mailto:hello@zachmccabe.com">hello@zachmccabe.com</a></p>
+</div>
 
 
 ### Notes
