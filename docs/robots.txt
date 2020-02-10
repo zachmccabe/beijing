@@ -2,3 +2,4 @@ User-agent: *
 Disallow: https://www.zachmccabe.com/beijing/bts_10_assumptions.html
 Disallow: https://www.zachmccabe.com/beijing/bts_style_guide.html
 Disallow: https://www.zachmccabe.com/beijing/bts_test.html
+Disallow: https://www.zachmccabe.com/beijing/how_the_book_got_made.html
