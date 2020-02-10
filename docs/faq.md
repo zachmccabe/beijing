@@ -85,11 +85,7 @@ The Field Guide was intentionally written to give you essential info and then ge
 
 ## Troubleshooting Chinese text on old Kindle e-ink hardware
 
-iPhones, Android phones and Kindle hardware all typically display Chinese language text just fine. Some early Kindle e-ink devices may require you to fiddle with your font settings to display Chinese characters, though.
-
-(Apparently, only some of Kindle’s fonts will display Chinese properly on older devices.)
-
-If you see little tofu blocks instead of Chinese characters, you’ll need to change your e-reader’s font settings:
+Apparently, only some of Kindle’s fonts will display Chinese properly on older devices. If you see little tofu blocks instead of Chinese characters, you’ll need to change your e-reader’s font settings:
 
  1. Hit the little **Aa icon** at the top of your screen to toggle the font settings options. This preference pane will let you choose a different font.
  2. Tap through your font options until the weird, little tofu boxes disappear and you can see Chinese characters alongside the English language text.
@@ -97,7 +93,9 @@ If you see little tofu blocks instead of Chinese characters, you’ll need to ch
 
 ## Why write a field guide?
 
-After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it. Books are self-contained and offline. That might be handy when you’re inside the great firewall.
+After hearing visiting photographers ask the same questions over and over, I decided it was time to do something about it. 
+
+Books are self-contained and offline. That can be helpful when you’re inside the great firewall.
 
 
 ## Do you have a different question?
