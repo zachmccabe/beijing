@@ -157,9 +157,9 @@ Originally, all the maps and illustrations in the v1 field guide were to be publ
 
 At that point I also learned that, apparently, some of Amazon's e-ink hardware couldn't render PNG. In the v1 field guide, it looked like my only options were JPG for photos, and GIF<sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> for everything else.
 
-**ImageOptim** was used to compress the files down as small as possible.
+Again, **ImageOptim** was used to shrink down file size.
 
-Creating the illustrations and thumbnail maps was certainly the most challenging part of the v1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
+Creating these illustrations was the most challenging part of the v1 field guide. Because it was the first time I'd done something like this, the workflow and technical challenges were beastly. It took significantly _more_ time to complete than actually writing and editing the copy. 
 
 Worth it? <strike>Absolutely. So far nobody has said a thing – which means the visuals are doing their job.</strike> You tell me: <hello@zachmccabe.com>.
 
@@ -171,7 +171,7 @@ Worth it? <strike>Absolutely. So far nobody has said a thing – which means the
 
 Everything was written in Markdown, using **TextEdit.** Then, using [Pandoc,](https://pandoc.org/) I built a rough ePub. This was hand polished with [Calibre](https://calibre-ebook.com/) and **BBEdit.**
 
-All are excellent tools. Calibre is very useful for editing and debugging ePub files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
+All are excellent tools. Calibre is very useful for editing and debugging EPUB files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
 
 Gitbook changed their product offering, and wasn't used in this version.
 
