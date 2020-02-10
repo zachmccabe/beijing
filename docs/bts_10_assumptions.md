@@ -1,13 +1,11 @@
 ---
 
-layout: pek
+layout: ratyear
 title: 10 Assumptions
-pub-date: 2017-12-04
-mod-date: 2018-04-05
+date: 2017-12-04
+update: 2018-04-05
 image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
 description: I made some assumptions when I wrote my book. Here they are…
-lede: Want a peak at some of the assumptions I made before writing and building the book?
-cta: Support this book. Buy yourself a <a href="https://www.amazon.com/Photographers-Field-Guide-Beijing-McCabe-ebook/dp/B072FVKP45/" alt="Amazon ebook sales page">copy.</a>
 
 ---
 
