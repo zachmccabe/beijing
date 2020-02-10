@@ -3,12 +3,12 @@ layout: ratyear
 date: 2017-12-05
 update: 2020-02-10
 title: Style guide
-description: Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
-cta: <a href="mailto:hello@zachmccabe.com?Subject=Hi%20via%20{{ page.title }}">hello@zachmccabe.com</a>
+description: Style guide for The Photographers Field Guide to Beijing
 
 ---
 
-Updated: {% include print_update.html %} • Like every project worth its salt, The Photographers Field Guide to Beijing needed its own style guide. I took my sticky notes and wrote this up for my editor. Maybe you'll find it useful, too.
+Updated: {% include print_update.html %} • Like every project worth its salt, the field guide needed its own style guide. I took my sticky notes and organized them here. Maybe you'll find this useful, too.
+
 
 ## Mostly AP style?
 
