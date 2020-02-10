@@ -4,13 +4,12 @@ layout: ratyear
 title: 10 Assumptions
 date: 2017-12-04
 update: 2018-04-05
-image: https://www.zachmccabe.com/beijing/assets/viz/beijing-bonus-chapter-250.png
-description: I made some assumptions when I wrote my book. Here they are…
+description: I made some assumptions when I wrote my book. Here are 10 of them.
 
 ---
 
 
-### The ebook
+## The ebook
 
 1. Somebody will feel the book's approach is able to solve their problem well enough to buy it. This person is The Reader.
 2. The Reader may be traveling while reading – she is likely experiencing some level of info-overload and distractibility already, simply from being on the road in a new place.
@@ -19,7 +18,7 @@ description: I made some assumptions when I wrote my book. Here they are…
 5. Since Amazon controls approx 80% of the US ebook market, and has over half of other significant ebook markets, Kindle the place to be. At least in English. For now.
 
 
-### The mini site
+## The mini site
 
 6. Page load speed matters most.
 7. Mini site is here as a resource for The Reader, as an expansion of the ebook. <sup><a id="ref3" href="#note3" alt="footnote">3</a></sup> A secondary goal with the mini site is to help a wider audience who either don't have, or don't want, the full ebook.
