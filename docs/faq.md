@@ -73,13 +73,13 @@ Photographers asked for my opinions and expertise, and I value their trust.
 
 ## Why do you need this book?
 
-The Field Guide gives you 3 things:
+The field guide gives you 3 things:
 
 1. Quick logistics advice from a photographer's point of view.
 2. Bite-sized cultural tips. Get your shots. Avoid faux pas.
 3. A brief, and carefully curated, location list to help you hit the ground running.
 
-The Field Guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
+The field guide was intentionally written to give you essential info and then get out of your way, so that you can get on with making photos.
 
 
 
