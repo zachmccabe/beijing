@@ -17,18 +17,15 @@ font: normal normal 1.3em/1.5 sans-serif;
 
 header, footer {
   text-align: center;
+  margin: 0 auto;
 }
 
 header {
-  margin: 0 auto;
   padding-top: 3em;
 }
 
 footer {
-  font-size: small;
-  margin: 0 auto;
   padding: 5em 0;
-  width: 100%;
 }
 
 article, main, section {
