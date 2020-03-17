@@ -13,7 +13,7 @@ Here is the project [style guide.](https://www.zachmccabe.com/beijing/bts_style_
 
 Any start requires making assumptions about the unknown. Here are [10 assumptions](https://www.zachmccabe.com/beijing/bts_10_assumptions) I'm making with this project.
 
----
+<img src="https://www.zachmccabe.com/beijing/assets/viz/page-about-the-photos.png" width="100%" max-width="600" alt="Page from the book, About the photos in this book" />
 
 For the 3rd time in less than 5 years, I've rewritten this field guide. It feels like bouncing along in a noisy, old carriage on the overnight train – the bed under you rattles wildly enough that your sleep is anxious.
 
