@@ -70,8 +70,8 @@ Long quotes should be used sparingly because this can disrupt reader's search fo
 - Web sources (social media, blogs, ebooks, whatever) should get a link back to the canonical source. 
 - Citations that link to audio or video content should include a timestamp.
 - Goals:
- + Citation info needs to be easy to scan for the reader; full Chicago citations can get very dense in this context it just looks silly.
- + Citations should be easy for me to format using markdown, which is the syntax I already use with the book and for the web.
+  + Citation info needs to be easy to scan for the reader; full Chicago citations can get very dense in this context it just looks silly.
+  + Citations should be easy for me to format using markdown, which is the syntax I already use with the book and for the web.
 
 Citations in the ebook, like the rest of my website, use a bastardized variant of Chicago.
 
