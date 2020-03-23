@@ -22,10 +22,10 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 ## Mostly AP style?
 
-Both the ebook and the mini site default to the **AP Style Guide** for spelling and punctuation. Yes, I _do_ know that it is obtuse at times. That's why I break some rules:
+Both the ebook and the mini site default to the **AP Style Guide** for spelling and punctuation. Yes, I do know that AP is obtuse at times. That's why I break some rules:
 
-* **Chinese** names and places always use pinyin romanization/transcription. Also see: [Chinese,](https://www.zachmccabe.com/beijing/bts_style_guide.html#chinese) below.
-* **Dates** are formatted as: MON DD YYYY. E.g., see "Updated: {% include print_update.html %}" at the top of this page.
+* **Chinese** names and places always use pinyin romanization/transcription. See: [Chinese,](https://www.zachmccabe.com/beijing/bts_style_guide.html#chinese) below.
+* **Dates** are formatted as: MON DD YYYY.
 * **Dialogue** is formatted using italics and double quotes, e.g. _"Hello world,"_ she said. Also see: [Chunkify,](https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify) below.
 * **Ellipses** are used as a narrative device – not just to truncate quotes. Because this is not a newspaper…
 * **Numbers** are never spelled out. Line-length is short, each character counts. Names might be an exception.
@@ -36,17 +36,13 @@ Both the ebook and the mini site default to the **AP Style Guide** for spelling 
 
 ### Chinese
 
-When it might help the reader, include Chinese for locations, names, etc. Always use pinyin romanization. Do not include tone marks.
+When it might help the reader, include Chinese for locations, names, etc.
+- Pinyin romanization is always used.
+- But do not include tone marks.
 
-Append pinyin with Chinese characters the first time the name or phrase is used, and in the location index. Use elsewhere as needed. Imagine the reader pointing to this text when asking a passerby for directions, or when negotiating with a cabbie.
+**Chinese characters** should follow the pinyin the first time a word or phrase is used. Chinese charaters should be included in the location index, too. Use elsewhere as needed. Imagine the reader pointing to this text when asking a passerby for directions, or when negotiating with a cabbie.
 
 Chinese-language texts are styled with CSS so it's easy for the reader. See: [Chunkify](https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify) and [Multilingual,](https://www.zachmccabe.com/beijing/bts_style_guide.html#multilingual) both below.   
-
-
-
-### Oxford comma
-
-The Oxford comma is not tolerated by AP Style, and this project is happy to abide by that rule.
 
 
 
@@ -82,9 +78,7 @@ Both metric and imperial are used in the ebook. Meanwhile, Beijingers themselves
 
 ### Tone
 
-Tone should be personal and fun.
-
-Move it along because people need answers to their questions. The reader may already be on the ground.
+Tone should be personal and fun. Move it along because people need answers to their questions. The reader may already be on the ground.
 
 TBH try to go easy on the abbreviations, and for fuckssake don't say fuck. This book is meant for a wide-ish audience.
 
@@ -93,9 +87,9 @@ TBH try to go easy on the abbreviations, and for fuckssake don't say fuck. This 
 
 ### Quotes and citations
 
-The AP stylebook is very clear: don't use academic-style citations. That won't work for my purposes. Otherwise, I do try to follow the AP rules listed in "composition titles" and "quotations."
+The AP stylebook is very clear: don't use academic-style citations. That won't work for my purposes. Otherwise, I do try to follow AP rules. E.g., "composition titles" and "quotations."
 
-Long quotes should be used sparingly because this can disrupt reader's search for quick answers. Ideally, paraphrase. Link/HT as needed. Otherwise, try and limit supporting info, e.g. quotations, to footnotes for the curious reader.
+**Quotes** should be used sparingly because this can disrupt reader's search for quick answers. Ideally, paraphrase. Link/HT as needed. Otherwise, try and limit supporting info, e.g. quotations, to footnotes for the curious reader.
 
 - Web sources (social media, blogs, ebooks, whatever) should get a link back to the canonical source. 
 - Citations that link to audio or video content should include a timestamp.
@@ -103,7 +97,7 @@ Long quotes should be used sparingly because this can disrupt reader's search fo
   + Citation info needs to be easy to scan for the reader; full Chicago citations can get very dense in this context it just looks silly.
   + Citations should be easy for me to format using markdown, which is the syntax I already use with the book and for the web.
 
-Citations in the ebook, like the rest of my website, use a bastardized variant of Chicago.
+**Citations** in the ebook, like the rest of my website, use a bastardized variant of Chicago.
 
 
 
@@ -111,7 +105,7 @@ Citations in the ebook, like the rest of my website, use a bastardized variant o
 
 ### Chunkify
 
-Make the book easy to scan. See: [10 Assumptions.](https://www.zachmccabe.com/beijing/10_assumptions.html)
+Make the book easy to scan. See #2 and #3 under [10 Assumptions.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
 
 Kindle puts some limits on how this is implemented. Use headers, short paragraphs, blockquote and bold text to help chunkify information.
 
