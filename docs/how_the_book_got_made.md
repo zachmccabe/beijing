@@ -22,11 +22,19 @@ Updated: {% include print_update.html %} • These notes explain how and why I b
 {% include page_nav.html %}
 
 
+
 ## Map and compass
 
-Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.html), a [compass](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) and a soundtrack. I listened to [Halsey's cover](https://youtu.be/YIznx_ek98M) of "The Sound" on BBC Radio 1 about 5k times.
+Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.html), a [compass](https://www.zachmccabe.com/beijing/bts_10_assumptions.html) and a soundtrack.
 
 All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
+
+Because I'm one of those people who puts a song on repeat during a project, I listened to Halsey's cover of ["The Sound"] on BBC Radio1. For v2, I clicked play on Rosalia's ["Pienso en tu mira"] and left it on for months.
+
+["The Sound"]: https://youtu.be/YIznx_ek98M
+
+["Pienso en tu mira"]: https://youtu.be/p_4coiRG_BI
+
 
 
 ## Timeline
@@ -35,6 +43,7 @@ All of my decisions are made using that map and compass. Reader feedback, and in
 - **v1.0.0:** May 2017. Published on Kindle.
 - **v0.0.1:** Oct 2016.
 - Research begins in early 2015
+
 
 
 ## The long way
