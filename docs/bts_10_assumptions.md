@@ -8,6 +8,7 @@ description: I made some assumptions when I wrote my book. Here are 10 of them.
 
 ---
 
+Date: {{ page.date }} • {{ page.description }}
 
 ## The ebook
 
