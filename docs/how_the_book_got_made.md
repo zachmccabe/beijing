@@ -29,7 +29,7 @@ Every project needs a [map](https://www.zachmccabe.com/beijing/bts_style_guide.h
 
 All of my decisions are made using that map and compass. Reader feedback, and input from comrades who've generously helped me edit the copy and pictures in the book, have helped me refine those tools.
 
-Because I'm one of those people who puts a song on repeat during a project, I listened to Halsey's cover of ["The Sound"] on BBC Radio1. For v2, I clicked play on Rosalia's ["Pienso en tu mira"] and left it on for months.
+Soundtrack? I'm one of those people who puts a song on loop during a project, and I listened to Halsey's cover of ["The Sound"] on BBC Radio1. While updating v2, I played Rosalia's ["Pienso en tu mira"] like a ritual.
 
 ["The Sound"]: https://youtu.be/YIznx_ek98M
 
