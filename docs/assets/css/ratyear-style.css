@@ -5,15 +5,13 @@ html, body {
 body {
 background-color:#fff2e8;
 color: #1a0a0a;
-font: normal normal 1.3em/1.5 sans-serif;
+font: normal normal 1em/1.6 sans-serif;
 }
 
-@media (max-width: 25em) {h1,h2{font-size:1.5em}}
-@media (min-width: 64em){body{font-size:1.2em;line-height:1.6}}
+@media (min-width: 64em){body{font-size:1.2em;}}
 @media (min-width: 85em){body{font-size:1.4em}}
 @media (min-width: 120em){body{font-size:2.2em}}
 @media (min-width: 160em){body{font-size:3em}}
-
 
 header, footer {
   text-align: center;
@@ -99,7 +97,7 @@ figure img {
 }
 
 figcaption {
-  color: #0f1320;
+  color: #0f1320; /* same color as h4, blockquote */
   font-size: smaller;
   font-weight: 700;
   margin: 0;
@@ -177,31 +175,38 @@ table + h2, h3, h4 {
 /* TYPOGRAPHY */
 
 h1, h2, h3, h4 {
-  color: #202a30;
-  line-height: 1.25;
-  overflow-wrap: break-word;
+line-height: 1.2;
+overflow-wrap: break-word;
+font-family: sans-serif;
+}
+
+h1, h4 {
+font-weight: 700;
 }
 
 h1 {
-  text-align: center;
+color: currentColor;
+font-size: 2.6em;
+text-align: center;
 }
 
-h2, h3, h4 {
-  margin: 0;
-  text-align: left;
+h2, h3 {
+font-weight: 400;
 }
 
-h2 + h3 {
-  margin-top: 0;
+h2 {
+color: #175798;  /* darker, from link color aka #268bd2 */
+font-size: 2em;
 }
 
-h3 + h4 {
-  margin-top: 0;
+h3 {
+color: #041650;  /* much darker, from link color aka #268bd2 */
+font-size: 1.6em;
 }
 
-.chunky {
-  color: #3000a8;
-  font-size: 130%;
+h4 {
+color: #0F1320; /* same color used for figcaption, blockquote */
+font-size: 1.3em;
 }
 
 a {
@@ -210,10 +215,8 @@ a {
 }
 
 aside, blockquote {
-  border-left: 0.05rem solid #225d25;
-  font-size: 85%;
+  color: #0f1320; /* same color as figcaption, h4 */
   margin-left: 0;
-  padding: 0.5rem;
 }
 
 aside + h2, h3, h4 {
