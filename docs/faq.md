@@ -42,15 +42,15 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 A lot has changed, both in China and elsewhere, since I started this project in 2015.
 
-"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler Ryszard Kapuscinski.
+I did not write this book to change the world. I *did* write it to help you connect with Beijingers and their city. Let's push that a little further: Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
-I did not write this book to change the world. I *did* write it to help you connect with Beijingers and their city. Given the state of things, let's push that a little further. Starting now, with the launch of version 2, I'm distributing this book free of charge.
+"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler, Ryszard Kapuscinski.<sup>*</sup>
 
-This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (25 USD will buy you a lot of [chuan'r] and [erguotou.])
+This field guide previously sold for 25 USD. Spend the difference getting to know the locals. (25 USD will buy you a lot of [chuan'r] and [erguotou.])
 
 Cheers to the Other in your world.
 
-Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+<sup>*</sup>Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
 
 [chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
 
