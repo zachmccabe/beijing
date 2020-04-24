@@ -3,16 +3,17 @@
 layout: ratyear
 title: FAQ
 date: 2018-04-18
-update: 2020-01-23
+update: 2020-04-23
 description: FAQ for the Photographers Field Guide to Beijing
 
 ---
 
-Updated: {% include print_update.html %} • Have a question about this project? Here's what your fellow Readers have been asking.
+Updated: {% include print_update.html %}
 
 
 * [What is the latest version of the field guide?](https://www.zachmccabe.com/beijing/faq.html#what-is-the-latest-version-of-the-field-guide)
 * [Who is this book for?](https://www.zachmccabe.com/beijing/faq.html#who-is-this-book-for)
+* [Why is this book free?](https://www.zachmccabe.com/beijing/faq.html#why-is-this-book-free)
 * [How do you read the Field Guide?](https://www.zachmccabe.com/beijing/faq.html#how-do-you-read-the-field-guide)
 * [Can you still read it on Kindle?](https://www.zachmccabe.com/beijing/faq.html#can-you-still-read-it-on-kindle)
 * [Who won't like this book?](https://www.zachmccabe.com/beijing/faq.html#who-wont-like-this-book)
@@ -35,6 +36,25 @@ The field guide is on v2.0.0.
 ## Who is this book for?
 
 Photographers who are new to China, or at least new to the Beijing area, will get the most out of The Field Guide. Nearly everyone arrives in Beijing with the same questions. The Field Guide gives you quick answers to those questions, and tackles a few issues you probably haven't anticipated yet.
+
+
+## Why is this book free?
+
+A lot has changed, both in China and elsewhere, since I started this project in 2015.
+
+"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler Ryszard Kapuscinski.
+
+I did not write this book to change the world. I *did* write it to help you connect with Beijingers and their city. Given the state of things, let's push that a little further. Starting now, with the launch of version 2, I'm distributing this book free of charge.
+
+This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (25 USD will buy you a lot of [chuan'r] and [erguotou.])
+
+Cheers to the Other in your world.
+
+Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+
+[chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
+
+[erguotou.]: https://www.wikipedia.org/wiki/Erguotou
 
 
 ## How do you read the Field Guide?
