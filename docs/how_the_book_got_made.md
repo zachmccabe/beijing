@@ -171,11 +171,12 @@ Worth it? <strike>Absolutely. So far nobody has said a thing – which means the
 
 ### Version 2
 
-Everything was written in Markdown, using **TextEdit.** Then, using [Pandoc,](https://pandoc.org/) I built a rough ePub. This was hand polished with [Calibre](https://calibre-ebook.com/) and [BBEdit.](https://www.barebones.com/products/bbedit/)
+Everything was written in Markdown, using **TextEdit.** Then, using [Pandoc,](https://pandoc.org/) I built a rough EPUB. This was hand polished with [Calibre](https://calibre-ebook.com/) and [BBEdit.](https://www.barebones.com/products/bbedit/)
 
-All are excellent tools. Calibre is very useful for editing and debugging EPUB files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
+Calibre is very useful for editing and debugging EPUB files. Pandoc can be used for all sorts of things. Both have active communities. If you're trying to build a book, try them out.
 
 **Gitbook** changed their product offering, and wasn't used in this version.
+
 
 
 ### Version 1
@@ -184,7 +185,7 @@ My earliest drafts were puked out in MacOS' **TextEdit**. Inevitably my best ide
 
 As the project developed, I needed more structure. [Gitbook](https://www.gitbook.com/) allowed me to pull my disparate TXT files together. Writing in Markdown is great, so that's what I did. Being able to easily add my visuals, and edit captions and other bits alongside the rest of the copy in Gitbook was very helpful.
 
-From Gitbook, it was easy to export the whole thing as an EPUB. The output was alright. Anyway, I still needed to get some things worked out in the XHTML files specifically for Kindle. Paul Salvette's [books](http://bbebooksthailand.com/) were an awesome resource for understanding what needed to be done. **BBEdit** and **Calibre** got me the rest of the way there.
+From Gitbook, it was easy to export the whole thing as an EPUB. The output was chatty but good. Anyway, I still needed to get some things worked out in the XHTML files specifically for Kindle. For that, Paul Salvette's [books](http://bbebooksthailand.com/) were an awesome resource for understanding what needed to be done. **BBEdit** and **Calibre** got me the rest of the way there.
 
 
 
