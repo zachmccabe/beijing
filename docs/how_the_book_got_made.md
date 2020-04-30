@@ -39,7 +39,7 @@ Soundtrack? I'm one of those people who puts a song on loop during a project, an
 
 ## Timeline
 
-- **v2.0.0:** Jan 2020. Published via free ePub and on Kindle.
+- **v2.0.0:** Jan 2020. Published via free EPUB, and on Kindle.
 - **v1.0.0:** May 2017. Published on Kindle.
 - **v0.0.1:** Oct 2016.
 - Research begins in early 2015
