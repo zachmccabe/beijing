@@ -2,12 +2,13 @@
 layout: ratyear
 title: BTS
 date: 2020-02-10
+update: 2020-07-03
 description: Behind the scenes with the Photographers Field Guide to Beijing
 
 ---
 
 
-If you're curious about how the book got made, I've stripped down my notes into this [colophon.](https://www.zachmccabe.com/beijing/how_the_book_got_made.html)
+If you're curious about how the book got made, I've stripped down my notes into this [colophon.](https://www.zachmccabe.com/beijing/colophon.html)
 
 Here is the project [style guide.](https://www.zachmccabe.com/beijing/bts_style_guide.html)
 
