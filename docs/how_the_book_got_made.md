@@ -1,8 +1,9 @@
 ---
 layout: ratyear
 date: 2017-11-08
-date: 2020-01-30
+update: 2020-01-30
 title: How the book got made
+redirect_to: https://www.zachmccabe.com/beijing/colophon.html
 nav: |
   + [Map and compass](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#map-and-compass)
   + [Timeline](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#timeline)
