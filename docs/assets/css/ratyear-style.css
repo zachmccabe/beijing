@@ -154,11 +154,7 @@ li {
 table {
   margin: 1em 0;
 }
-/*
-th {
-  margin: 1em;
-}
-*/
+
 th, td {
   border-bottom: 1px dotted currentColor;
   color: currentColor;
@@ -172,26 +168,20 @@ table + h2, h3, h4 {
 }
 
 
+
+
 /* TYPOGRAPHY */
 
 h1, h2, h3, h4 {
+color: currentColor;
+font-family: sans-serif;
+font-weight: 700;
 line-height: 1.2;
 overflow-wrap: break-word;
-font-family: sans-serif;
-}
-
-h1, h4 {
-font-weight: 700;
 }
 
 h1 {
-color: currentColor;
-font-size: 2.6em;
 text-align: center;
-}
-
-h2, h3 {
-font-weight: 400;
 }
 
 h2 + h3 {
@@ -199,13 +189,11 @@ margin-top: 0;
 }
 
 h2 {
-color: #175798;  /* darker, from link color aka #268bd2 */
-font-size: 2em;
+font-size: 1.6em;
 }
 
 h3 {
-color: #041650;  /* much darker, from link color aka #268bd2 */
-font-size: 1.6em;
+font-size: 1.3em;
 }
 
 h3 + h4 {
@@ -213,8 +201,7 @@ margin-top: 0;
 }
 
 h4 {
-color: #0F1320; /* same color used for figcaption, blockquote */
-font-size: 1.3em;
+font-size: 1em;
 }
 
 a {
