@@ -46,11 +46,11 @@ While I did not write this book to change the world, I *did* write it to help yo
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
-"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler, Ryszard Kapuscinski.<sup>*</sup>
+"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler, Ryszard Kapuscinski. <sup>&ast;</sup>
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends a lot of [chuan'r] and [erguotou] for 25 USD.) Cheers to the Other in your world.
 
-<sup>*</sup>Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+<sup>&ast;</sup> Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
 
 [chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
 
