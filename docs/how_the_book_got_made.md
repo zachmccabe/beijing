@@ -1,21 +1,19 @@
 ---
-layout: ratyear
-date: 2017-11-08
-update: 2020-01-30
-title: How the book got made
-redirect_to: https://www.zachmccabe.com/beijing/colophon.html
-nav: |
-  + [Map and compass](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#map-and-compass)
-  + [Timeline](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#timeline)
-  + [The long way](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#the-long-way)
-  + [Photos](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#photos)
-  + [Maps and illustrations](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#maps-and-illustrations)
-  + [Copy](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#copy)
-  + [Writing for mobile](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#writing-for-mobile)
-  + [Lessons learned](https://www.zachmccabe.com/beijing/how_the_book_got_made.html#lessons-learned)
+layout: ratyear301
+date: 2020-07-08
+title: 301 Redirecting to Colophon 
+description: This page has moved
+redirect: https://www.zachmccabe.com/beijing/colophon.html
 
 ---
 
+
+This page has moved. 👽  You are being automagically redirected: <{{ page.redirect }}>
+
+
+
+
+<!--
 
 Updated: {% include print_update.html %} • These notes explain how and why I built the field guide the way I did. If you're curious about digital books, take a peak.
 
@@ -258,3 +256,5 @@ I needed all the visuals to look consistent, and styled the text with a generic 
 <h4 id="note4">Note 4</h4>
 
 Some apps/platforms do help Readers understand they can tweak UI options (e.g. line height, columns, font choice). It isn't always so obvious, though: Some of my Readers had trouble with this, which startled me – I'd assumed their meme fluency and Reddit expeditions meant it'd be obvious. <a href="#ref4" alt="back">↩</a>
+
+-->
