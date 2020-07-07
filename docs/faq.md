@@ -50,7 +50,7 @@ Starting now, with the launch of version 2, I'm distributing this book free of c
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends a lot of [chuan'r] and [erguotou] for 25 USD.) Cheers to the Other in your world.
 
-<sup>*</sup> Ryszard Kapuscinski, *The Other,* (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+<sup>*</sup>Ryszard Kapuscinski, _The Other,_ (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
 
 [chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
 
