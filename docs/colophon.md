@@ -1,8 +1,8 @@
 ---
 layout: ratyear
-date: 2017-11-08
-update: 2020-01-30
-title: How the book got made
+date: 2020-01-30
+title: Colophon
+description: How and why I built the field guide the way I did. If you're curious about digital books, take a peek.
 nav: |
   + [Map and compass](https://www.zachmccabe.com/beijing/colophon.html#map-and-compass)
   + [Timeline](https://www.zachmccabe.com/beijing/colophon.html#timeline)
