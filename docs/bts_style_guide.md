@@ -1,7 +1,6 @@
 ---
 layout: ratyear
-date: 2017-12-05
-update: 2020-02-10
+date: 2020-02-10
 title: Style guide
 description: Style guide for The Photographers Field Guide to Beijing
 nav: |
