@@ -17,13 +17,15 @@
 <body>
 <div class="xwrap">
 {% include site_nav.html %}
+<header>
 <h1 id="{{ page.title }}">{{ page.title }}</h1>
-<div class="xnest20">
+</header>
+<main class="xnest20">
 {{ content }}
-</div>
-</div>
+</main>
 <footer>
 {% include footer.html %}
 </footer>
+</div>
 </body>
 </html>
