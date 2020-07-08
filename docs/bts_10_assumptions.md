@@ -2,13 +2,12 @@
 
 layout: ratyear
 title: 10 Assumptions
-date: 2017-12-04
-update: 2018-04-05
-description: I made some assumptions when I wrote my book. Here are 10 of them.
+date: 2018-04-05
+description: I made some assumptions when I wrote my book. Here are a few them.
 
 ---
 
-Date: {{ page.date }} • {{ page.description }}
+Updated: {% include print_update.html %} • {{ page.description }}
 
 ## The ebook
 
