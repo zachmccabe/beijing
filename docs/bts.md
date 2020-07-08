@@ -1,8 +1,7 @@
 ---
 layout: ratyear
 title: BTS
-date: 2020-02-10
-update: 2020-07-03
+date: 2020-07-03
 description: Behind the scenes with the Photographers Field Guide to Beijing
 
 ---
