@@ -1,4 +1,3 @@
-
 ---
 layout: ratyear
 title: Get the book
