@@ -1,10 +1,8 @@
 ---
-
 layout: ratyear
 title: FAQ
-date: 2018-04-18
-update: 2020-04-23
-description: FAQ for the Photographers Field Guide to Beijing
+date: 2020-04-23
+description: Got a question about The Photographers Field Guide to Beijing?
 
 ---
 
