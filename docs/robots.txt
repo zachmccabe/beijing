@@ -1,3 +1,4 @@
 User-agent: *
+Sitemap: https://www.zachmccabe.com/beijing/sitemap.xml
 Disallow: https://www.zachmccabe.com/beijing/bts_10_assumptions.html
 Disallow: https://www.zachmccabe.com/beijing/bts_style_guide.html
