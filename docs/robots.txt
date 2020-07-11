@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://www.zachmccabe.com/beijing/sitemap.xml
