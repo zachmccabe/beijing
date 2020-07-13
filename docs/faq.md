@@ -48,7 +48,7 @@ Starting now, with the launch of version 2, I'm distributing this book free of c
 
 This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends a lot of [chuan'r] and [erguotou] for 25 USD.) Cheers to the Other in your world.
 
-<sup>*</sup>Ryszard Kapuscinski, _The Other,_ (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
+<span>*</span>Ryszard Kapuscinski, The Other, (Brooklyn, NY: Verso, 2018) "Encountering the other as the challenge of the twenty-first century," Kindle e-book.
 
 [chuan'r]: https://www.wikipedia.org/wiki/Chuan_(food)
 
@@ -59,7 +59,7 @@ This field guide previously sold for 25 USD. You're encouraged to spend the diff
 
 You can use any app that supports EPUB files. Off the top of my head: **iBooks,** [Calibre](https://calibre-ebook.com/) and **Kobo** all support EPUB files. Axet’s [Book Reader](https://axet.gitlab.io/android-book-reader/) is quickly becoming my personal favorite.
 
-The book was written for travelers who need quick answers, and is designed so it's easy to read on your phone.
+The book is written for travelers who need quick answers, and is designed so it's easy to read on your phone.
 
 
 ## Can you still read it on Kindle?
