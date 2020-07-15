@@ -212,15 +212,17 @@ For the v2 field guide, I needed to step back and reorganize the book's structur
 
 The Photographers Field Guide to Beijing is the first book I've written. It's not the first book I've helped produce, though. It's also not my first big, hairy project. 
 
-Nevertheless, there were a few false summits. I took some wrong turns. Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
+There were a few false summits.
+
+Again, I'd like to emphasize the importance of having a compass – you need to create a reader persona and learn to consult that document as part of your process. Mine is [here.](https://www.zachmccabe.com/beijing/bts_10_assumptions.html)
 
 1. Find your beta testers (beta readers?) as soon as you can. Treat their time with respect. This feedback is invaluable.
-2. Then, find a good editor. If you're including maps, illustrations and photos, pull in a photo editor or a designer, too. These eagle-eyed folks will catch mistakes and help you through the 11th-hour gales.
-3. I was told to spend half my time making the product and half my time marketing it. I should've listened.
+2. Find a good editor. If you're including maps, illustrations and photos, pull in a photo editor or a designer, too. These eagle-eyed folks will catch mistakes and help you through the 11th-hour gales.
+3. I was told to divide my time equally between making and marketing. And I should've listened.
 
 From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights.
 
-Make a book. You'll be happy you did.
+Go make a book\ You'll be happy you did\ –Z
 
 
 <div class="shuCTA">
