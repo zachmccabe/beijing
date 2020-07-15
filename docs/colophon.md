@@ -222,7 +222,7 @@ Again, I'd like to emphasize the importance of having a compass – you need to 
 
 From the start I knew I wanted to do the whole thing myself. I wanted to understand how it works. It really was worth the extra effort, confusion and truly sickening number of late nights.
 
-Go make a book\ You'll be happy you did\ –Z
+Go make a book<br />You'll be happy you did<br />–Z
 
 
 <div class="shuCTA">
