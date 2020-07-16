@@ -40,7 +40,7 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 A lot has changed, both in China and elsewhere, since I started this project in 2015.
 
-I did *not* write this book to change the world. I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
+I did *not* write this book to change the world. But I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
