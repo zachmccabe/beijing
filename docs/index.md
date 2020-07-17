@@ -14,7 +14,7 @@ It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releas
 
 <p style="text-align:center"><a href="https://www.zachmccabe.com/beijing/faq">FAQ</a> • <a href="https://www.zachmccabe.com/beijing/bts">BTS</a></p>
 
-<img src="https://www.zachmccabe.com/beijing/assets/viz/page-whats-so-great.png" width="100%" max-width="300px" alt="Page preview from the book" />
+<img src="https://www.zachmccabe.com/beijing/assets/viz/page-whats-so-great.png" width="100%" max-width="300px" alt="Page preview from the book" style="margin: 5em auto 0;" />
 
 Yes, the book is now free. [Here's why.]
 
