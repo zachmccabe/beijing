@@ -1,7 +1,7 @@
 ---
 layout: ratyear_index
 title: The Photographers Field Guide to Beijing
-date: 2020-01-23
+date: 2020-07-17
 description: Get your copy of the free book
 
 ---
@@ -16,6 +16,10 @@ It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releas
 
 <img src="https://www.zachmccabe.com/beijing/assets/viz/page-whats-so-great.png" width="100%" max-width="300px" alt="Page preview from the book" style="margin: 5em auto 0;" />
 
-Yes, the book is now free. [Here's why.]
+Get answers to the questions only photographers ask. Learn how to deal with smog, when to shoot fall colors, and where to spend blue hour. Go capture the remarkable story of China's capital.
 
-[Here's why.]: https://www.zachmccabe.com/beijing/faq#why-is-this-book-free
+This field guide is written for photographers on the move. Use your favorite ebook app and read it anywhere. 
+
+It's free. [Download it.]
+
+[Download it.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub
