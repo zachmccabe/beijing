@@ -10,7 +10,7 @@ description: Get your copy of the free book
 
 <span class="lede">Version 2 of The Photographers Field Guide to Beijing is here.</span>
 
-It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub">.epub</a> file, and read in your favorite app. Happy Rat Year from me to you<br />–Zach
+It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub">.epub</a> file, and read in your favorite app. Happy Rat Year from me to you –Zach
 
 <p style="text-align:center"><a href="https://www.zachmccabe.com/beijing/faq">FAQ</a> • <a href="https://www.zachmccabe.com/beijing/bts">BTS</a></p>
 
