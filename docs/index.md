@@ -1,7 +1,7 @@
 ---
 layout: ratyear_index
 title: The Photographers Field Guide to Beijing
-date: 2020-07-17
+date: 2020-08-04
 description: Get your copy of the free book
 
 ---
@@ -22,4 +22,4 @@ This field guide is written for photographers on the move. Use your favorite ebo
 
 It's free. [Download it.]
 
-[Download it.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub
+[Download it.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.1/beijing-v2.0.1.epub
