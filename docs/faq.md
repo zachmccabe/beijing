@@ -1,7 +1,7 @@
 ---
 layout: ratyear
 title: FAQ
-date: 2020-04-23
+date: 2020-08-04
 description: Got a question about The Photographers Field Guide to Beijing?
 
 ---
@@ -26,7 +26,7 @@ Updated: {% include print_update.html %} • Got a question about The Photograph
 
 ## What’s the latest version of the field guide?
 
-The field guide is on v2.0.0.
+The field guide is on v2.0.1.
 
 (BTW, you can check to see if you have the latest version by comparing the version number listed on the book’s copyright page with the [latest release](https://github.com/zachmccabe/beijing/releases/latest) on Github.)
 
