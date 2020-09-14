@@ -23,7 +23,7 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 **Chinese** names and places always use pinyin romanization. See: [Chinese,](https://www.zachmccabe.com/beijing/bts_style_guide.html#chinese) below.
 
-**Dates** use ISO 8601 format, e.g.: YYYY-MM-DD.
+**Dates** use ISO 8601 format: YYYY-MM-DD.
 
 **Dialogue** is formatted using italics and double quotes for clarity, e.g. _"Hello world,"_ she said. Also see: [quotes and citations] and [chunkify.](https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify)
 
@@ -37,7 +37,7 @@ Updated: {% include print_update.html %} • Like every project worth its salt, 
 
 [chunkify.]: https://www.zachmccabe.com/beijing/bts_style_guide.html#chunkify
 
-[line length]: https://www.zachmccabe.com/beijing/bts_style_guide.html#line-length
+[line length.]: https://www.zachmccabe.com/beijing/bts_style_guide.html#line-length
 
 
 
@@ -77,7 +77,9 @@ Thankfully, most apps give the reader some options within the settings to adjust
 
 ### Structure copy for quick answers
 
-**This is a reference book.** The reader should be able to easily navigate info, and to hop back-and-forth without thinking about it. (It's like an offline internet. Perfect for travelers in China.)
+**This is a reference book.** The reader should be able to easily navigate info, and to hop back-and-forth without thinking about it.
+
+(It's like an offline internet. Perfect for travelers in China.)
 
 
 
@@ -117,7 +119,7 @@ Make the book easy to scan. See #2 and #3 under [10 Assumptions.](https://www.za
 
 Use headers, short paragraphs, blockquote and bold text to help chunkify information. This is important for human readers, and also so that screen readers and reading apps can parse your text.
 
-Be careful with `<aside>` because iBooks is idiosyncratic about displaying contents wrapped in this tag. For more, see Apple's [Apple Books asset guide](https://help.apple.com/itc/booksassetguide/)
+Be careful with `<aside>` because iBooks is idiosyncratic about displaying contents wrapped in this tag. For more, see Apple's [Apple Books asset guide.](https://help.apple.com/itc/booksassetguide/)
 
 
 
