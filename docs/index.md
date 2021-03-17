@@ -1,8 +1,8 @@
 ---
 layout: ratyear_index
 title: The Photographers Field Guide to Beijing
-date: 2020-08-04
-description: Get your copy of the free book
+date: 2021-03-17
+description: Get answers to the questions only photographers ask
 
 ---
 
@@ -10,7 +10,7 @@ description: Get your copy of the free book
 
 <span class="lede">Version 2 of The Photographers Field Guide to Beijing is here.</span>
 
-It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub">.epub</a> file, and read in your favorite app. Happy Rat Year from me to you –Zach
+Grab the <a href="https://github.com/zachmccabe/beijing/releases/download/v2.0.0/beijing-v.2.0.0.epub">.epub</a> file, and read in your favorite app. It’s free. –Zach
 
 <p style="text-align:center"><a href="https://www.zachmccabe.com/beijing/faq">FAQ</a> • <a href="https://www.zachmccabe.com/beijing/bts">BTS</a></p>
 
@@ -18,8 +18,8 @@ It’s free. 🐭 Grab the <a href="https://github.com/zachmccabe/beijing/releas
 
 Get answers to the questions only photographers ask. Learn how to deal with smog, when to shoot fall colors, and where to spend blue hour. Go capture the remarkable story of China's capital.
 
-This field guide is written for photographers on the move. Use your favorite ebook app and read it anywhere. 
+This field guide is written for photographers on the road. Use your favorite ebook app and read it anywhere. 
 
-It's free. [Download it.]
+It's free. You should [download it.]
 
-[Download it.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.1/beijing-v2.0.1.epub
+[download it.]: https://github.com/zachmccabe/beijing/releases/download/v2.0.1/beijing-v2.0.1.epub
