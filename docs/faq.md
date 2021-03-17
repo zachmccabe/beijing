@@ -1,7 +1,7 @@
 ---
 layout: ratyear
 title: FAQ
-date: 2020-08-04
+date: 2021-03-17
 description: Got a question about The Photographers Field Guide to Beijing?
 
 ---
@@ -28,7 +28,7 @@ Updated: {% include print_update.html %} • Got a question about The Photograph
 
 The field guide is on v2.0.1.
 
-(BTW, you can check to see if you have the latest version by comparing the version number listed on the book’s copyright page with the [latest release](https://github.com/zachmccabe/beijing/releases/latest) on Github.)
+(BTW you can check to see if you have the latest version by comparing the version number listed on the book’s copyright page with the [latest release](https://github.com/zachmccabe/beijing/releases/latest) on Github.)
 
 
 ## Who is this book for?
@@ -38,15 +38,17 @@ Photographers who are new to China, or at least new to the Beijing area, will ge
 
 ## Why is this book free?
 
-A lot has changed, both in China and elsewhere, since I started this project in 2015.
+A lot has changed since I started this project in 2015.
 
 I did *not* write this book to change the world. But I did write it to help you connect with Beijingers and their city. Let's push that a little further, huh?
 
 Starting now, with the launch of version 2, I'm distributing this book free of charge on this website.
 
-"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish journalist and indomitable traveler, Ryszard Kapuscinski.<sup>*</sup>
+This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. 
 
-This field guide previously sold for 25 USD. You're encouraged to spend the difference getting to know the locals. (And you can buy your new friends a lot of [chuan'r] and [erguotou] for 25 USD.)
+(FWIW you can buy a lot of [chuan'r] and [erguotou] for 25 USD.)
+
+"The experience of spending many years among distant Others has taught me that friendliness towards another human being is the only attitude that can touch a chord of humanity in him," says Polish writer, Ryszard Kapuscinski.<sup>*</sup>
 
 Cheers to the Other in your world.
 
@@ -59,7 +61,7 @@ Cheers to the Other in your world.
 
 ## How do you read the Field Guide?
 
-You can use any app that supports EPUB files. Off the top of my head: **iBooks,** [Calibre](https://calibre-ebook.com/) and **Kobo** all support EPUB files. Axet’s [Book Reader](https://axet.gitlab.io/android-book-reader/) is quickly becoming my personal favorite.
+You can use any app that supports EPUB files. Off the top of my head: **iBooks,** **PocketBook,** [Calibre](https://calibre-ebook.com/) and **Kobo** all support EPUB files.
 
 The book is written for travelers who need quick answers, and is designed so it's easy to read on your phone.
 
@@ -81,7 +83,9 @@ Nope. The only thing I assume is that you're new to China. The Field Guide helps
 
 ## What's so great about Beijing?
 
-The art. The architecture. The attitude. Expect photo ops of a vibrant city that is not shy about owning it's cultural wealth – or showing it off. You'll also have opportunties to photograph floating fields of summer lotus blossoms, autumn streets lined with ginko trees and the Great Wall.
+The art. The architecture. The attitude.
+
+Expect photo ops of a vibrant city that is not shy about owning it's cultural wealth – or showing it off. You'll also have opportunties to photograph floating fields of summer lotus blossoms, autumn streets lined with ginko trees and the Great Wall.
 
 
 ## Who sponsored this project, then?
@@ -120,4 +124,4 @@ Books are self-contained and offline. That can be helpful when you’re inside t
 
 ## Do you have a different question?
 
-Read all this way and still looking for an answer? We can’t have that. Please email me and let’s figure it out together: <hello@zachmccabe.com>
+Please email me and let’s figure it out together: <hello@zachmccabe.com>
