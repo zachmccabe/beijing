@@ -85,14 +85,14 @@ Nope. The only thing I assume is that you're new to China. The Field Guide helps
 
 The art. The architecture. The attitude.
 
-Expect photo ops of a vibrant city that is not shy about owning it's cultural wealth – or showing it off. You'll also have opportunties to photograph floating fields of summer lotus blossoms, autumn streets lined with ginko trees and the Great Wall.
+Expect photo ops of a vibrant city that is not shy about owning its cultural wealth – or showing it off. You'll also have opportunties to photograph floating fields of summer lotus blossoms, autumn streets lined with ginko trees and the Great Wall.
 
 
 ## Who sponsored this project, then?
 
-There are no sponsors. There are no affiliate links. I don't accept free fish or any other payment for mentions.
+There are no sponsors. There are no affiliate links. I don't accept free fish or any other payment for the places and services mentioned in this field guide.
 
-Photographers asked for my opinions and expertise, and I value their trust.
+Fellow photographers asked for my opinions and expertise, and I value that trust.
 
 
 ## Why do you need this book?
