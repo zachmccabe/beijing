@@ -1,5 +1,6 @@
 ---
-layout: pek
+layout: ratyear301
+redirect: https://www.zachmccabe.com/beijing
 title: What are the best apps for photographers visiting China?
 pub-date: 2017-09-06
 mod-date: 2018-06-03
