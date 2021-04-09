@@ -1,6 +1,7 @@
 ---
 
-layout: pek
+layout: ratyear301
+redirect: https://www.zachmccabe.com/beijing
 pub-date: 2017-09-17
 mod-date: 2018-06-05
 title: China's Map Gap
