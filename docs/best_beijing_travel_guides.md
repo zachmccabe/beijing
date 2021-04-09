@@ -1,6 +1,6 @@
 ---
 
-layout: ratyear301
+layout: pek
 pub-date: 2017-09-06
 mod-date: 2018-09-29
 title: What's the best travel guidebook for Beijing?
