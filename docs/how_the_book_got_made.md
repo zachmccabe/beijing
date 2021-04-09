@@ -1,5 +1,6 @@
 ---
 layout: ratyear301
+redirect: https://www.zachmccabe.com/beijing
 date: 2020-07-08
 title: 301 Redirecting to Colophon 
 description: This page has moved
