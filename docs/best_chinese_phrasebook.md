@@ -1,6 +1,7 @@
 ---
 
-layout: pek
+layout: ratyear301
+redirect: https://www.zachmccabe.com/beijing
 pub-date: 2017-09-06
 mod-date: 2018-08-21
 title: What’s the best Chinese phrasebook for photographers?
