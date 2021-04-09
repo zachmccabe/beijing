@@ -12,6 +12,7 @@ cta: You can read the <b>Photographers Field Guide to Beijing</b> for free. Get 
 
 ---
 
+
 ### My top 2 picks
 
 Because I like to travel light, I have the Kindle-version of both books: 
