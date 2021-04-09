@@ -1,5 +1,6 @@
 ---
-layout: pek
+layout: ratyear301
+redirect: https://www.zachmccabe.com/beijing
 pub-date: 2017-09-07
 mod-date: 2018-06-04
 title: What's in my travel camera bag?
